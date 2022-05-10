@@ -1,0 +1,118 @@
+,scientific_name,common_name,before,after,reason_for_change,Category,year
+0,Alouatta sara,Bolivian Red Howler Monkey,LC,NT,G,Mammals,2020
+2,Aotus zonalis,Panamanian Night Monkey,DD,NT,N,Mammals,2020
+4,Cebus brunneus,Venezuelan Brown Capuchin,LC,EN,N,Mammals,2020
+21,Leontopithecus caissara,Black-faced Lion Tamarin,CR,EN,N,Mammals,2020
+24,Mico leucippe,Golden-white Bare-ear Marmoset,VU,LC,N,Mammals,2020
+25,Mico marcai,Marca's Marmoset,DD,VU,N,Mammals,2020
+33,Pithecia hirsuta,Hairy Saki,DD,LC,N,Mammals,2020
+34,Plecturocebus olallae,Olalla Brothers' Titi,EN,CR,G,Mammals,2020
+43,Saimiri vanzolinii,Black Squirrel Monkey,VU,EN,N,Mammals,2020
+2,Amazilia lilliae,Sapphire-bellied Hummingbird,CR,EN,N,Birds,2020
+4,Amazona barbadensis,Yellow-shouldered Amazon,VU,NT,N,Birds,2020
+12,Asthenes heterura,Maquis Canastero,NT,LC,N,Birds,2020
+13,Asthenes huancavelicae,Huancavelica Canastero,NT,LC,N,Birds,2020
+14,Asthenes usheri,White-tailed Canastero,VU,NT,N,Birds,2020
+15,Atlapetes melanopsis,Black-spectacled Brush-finch,EN,NT,N,Birds,2020
+19,Brotogeris pyrrhoptera,Grey-cheeked Parakeet,EN,VU,G,Birds,2020
+20,Campylorhamphus multostriatus,Xingu Scythebill,LC,NT,G,Birds,2020
+25,Chaetocercus bombus,Little Woodstar,VU,NT,N,Birds,2020
+30,Conopophaga cearae,Ceara Gnateater,LC,NT,N,Birds,2020
+32,Crax alector,Black Curassow,VU,LC,N,Birds,2020
+38,Eleothreptus anomalus,Sickle-winged Nightjar,NT,VU,G,Birds,2020
+39,Emberizoides duidae,Duida Grass-finch,NT,DD,N,Birds,2020
+45,Geospiza pallida,Woodpecker Finch,VU,NT,N,Birds,2020
+47,Glaucis dohrnii,Hook-billed Hermit,EN,VU,N,Birds,2020
+51,Habia gutturalis,Sooty Ant-tanager,NT,LC,N,Birds,2020
+52,Hapalopsittaca amazonina,Rusty-faced Parrot,VU,NT,N,Birds,2020
+53,Hapalopsittaca fuertesi,Indigo-winged Parrot,CR,EN,G,Birds,2020
+54,Hapalopsittaca pyrrhops,Red-faced Parrot,VU,LC,N,Birds,2020
+55,Harpia harpyja,Harpy Eagle,NT,VU,N,Birds,2020
+61,Lepidothrix vilasboasi,Golden-crowned Manakin,VU,LC,N,Birds,2020
+63,Lophornis gouldii,Dot-eared Coquette,VU,NT,N,Birds,2020
+70,Melanopareia maranonica,Maranon Crescentchest,NT,LC,N,Birds,2020
+73,Mitu tuberosum,Razor-billed Curassow,LC,NT,G,Birds,2020
+74,Molothrus armenti,Bronze-brown Cowbird,VU,NT,N,Birds,2020
+75,Myiothlypis basilica,Santa Marta Warbler,VU,NT,N,Birds,2020
+76,Neopelma aurifrons,Wied's Tyrant-manakin,VU,NT,N,Birds,2020
+80,Odontophorus dialeucos,Tacarcuna Wood-quail,VU,LC,N,Birds,2020
+81,Odontophorus gujanensis,Marbled Wood-quail,NT,LC,N,Birds,2020
+82,Oreotrochilus adela,Wedge-tailed Hillstar,NT,LC,N,Birds,2020
+87,Patagioenas subvinacea,Ruddy Pigeon,VU,LC,N,Birds,2020
+88,Penelope perspicax,Cauca Guan,EN,VU,N,Birds,2020
+89,Penelope purpurascens,Crested Guan,LC,NT,N,Birds,2020
+90,Penelope superciliaris,Rusty-margined Guan,LC,NT,G,Birds,2020
+94,Pipile cujubi,Red-throated Piping-guan,LC,VU,G,Birds,2020
+100,Poospiza garleppi,Cochabamba Mountain-finch,EN,NT,N,Birds,2020
+101,Psophia crepitans,Grey-winged Trumpeter,NT,LC,N,Birds,2020
+104,Rallus semiplumbeus,Bogota Rail,EN,VU,N,Birds,2020
+105,Ramphastos sulfuratus,Keel-billed Toucan,LC,NT,G,Birds,2020
+106,Ramphodon naevius,Saw-billed Hermit,NT,LC,N,Birds,2020
+107,Rhegmatorhina hoffmannsi,White-breasted Antbird,NT,LC,N,Birds,2020
+115,Scytalopus canus,Paramillo Tapaculo,EN,NT,N,Birds,2020
+116,Scytalopus panamensis,Tacarcuna Tapaculo,VU,NT,N,Birds,2020
+117,Scytalopus perijanus,Perija Tapaculo,VU,NT,N,Birds,2020
+118,Spinus siemiradzkii,Saffron Siskin,VU,LC,N,Birds,2020
+121,Synallaxis hypochondriaca,Great Spinetail,VU,NT,N,Birds,2020
+122,Synallaxis zimmeri,Russet-bellied Spinetail,EN,VU,N,Birds,2020
+124,Tinamus major,Great Tinamou,NT,LC,N,Birds,2020
+127,Touit stictopterus,Spot-winged Parrotlet,VU,NT,N,Birds,2020
+132,Xiphorhynchus atlanticus,Atlantic Woodcreeper,LC,VU,N,Birds,2020
+6,Amphisbaena slevini,Slevin's Worm Lizard,DD,LC,N,Reptiles,2020
+8,Anisolepis undulatus,Wiegmann's Tree Lizard,VU,DD,N,Reptiles,2020
+12,Anolis festae,Veronica's Anole,LC,NT,N,Reptiles,2020
+14,Anolis maculigula,Rueda's Anole,VU,NT,N,Reptiles,2020
+16,Anolis pinchoti,Crab Cay Anole,VU,LC,N,Reptiles,2020
+29,Bothrops alcatraz,Alcatrazes Lancehead,CR,VU,N,Reptiles,2020
+30,Bothrops itapetiningae,Sao Paulo Lancehead,LC,VU,N,Reptiles,2020
+31,Bothrops pirajai,Piraja's Lancehead,VU,EN,N,Reptiles,2020
+35,Calamodontophis paucidens,Tropical Forest Snake,VU,EN,N,Reptiles,2020
+49,Coleodactylus natalensis,Natal Pigmy Gecko,DD,EN,N,Reptiles,2020
+50,Colobodactylus dalcyanus,Vanzolini's Teiid,DD,EN,N,Reptiles,2020
+72,Eunectes deschauenseei,Dark Spotted Anaconda,DD,LC,N,Reptiles,2020
+73,Eurolophosaurus amathites,Amathites Lava Lizard,DD,EN,N,Reptiles,2020
+104,Leposternon scutigerum,Shielded Worm Lizard,DD,EN,N,Reptiles,2020
+0,Allobates algorei,Spotted Nurse Frog,LC,NT,G,Amphibians,2020
+4,Anomaloglossus praderioi,Sapito Ni�era De Praderio,DD,EN,N,Amphibians,2020
+5,Anomaloglossus roraima,Sapito Ninera Del Roraima,DD,EN,N,Amphibians,2020
+12,Dendropsophus pelidna,Betania Treefrog,LC,NT,G,Amphibians,2020
+30,Gastrotheca helenae,Helena's Marsupial Frog,DD,EN,N,Amphibians,2020
+52,Mannophryne cordilleriana,Andean Collared Frog,CR,VU,N,Amphibians,2020
+71,Pristimantis anolirex,Santander Robber Frog,NT,VU,N,Amphibians,2020
+73,Pristimantis colostichos,Los Conejos Short-banded Paramo Frog,VU,EN,N,Amphibians,2020
+74,Pristimantis culatensis,La Culata's Paramo Frog,DD,EN,N,Amphibians,2020
+76,Pristimantis flabellidiscus,Los Aranguren Paramo Frog,DD,VU,N,Amphibians,2020
+77,Pristimantis jabonensis,Jabon Paramo Frog,DD,VU,N,Amphibians,2020
+81,Pristimantis telefericus,Merida Cable Car Frog,DD,CR,N,Amphibians,2020
+90,Scinax manriquei,Manrique Snouted Treefrog,LC,NT,G,Amphibians,2020
+93,Tachiramantis lentiginosus,Guacharaquita Robber Frog,DD,EN,N,Amphibians,2020
+94,Tepuihyla rodriguezi,Rodriguez's Amazon Treefrog,DD,NT,N,Amphibians,2020
+0,Aetobatus narinari,Whitespotted Eagle Ray,NT,EN,N,Sharks_Rays,2020
+2,Amblyraja frerichsi,Thickbody Skate,DD,VU,N,Sharks_Rays,2020
+10,Carcharhinus acronotus,Blacknose Shark,NT,EN,G,Sharks_Rays,2020
+15,Carcharhinus isodon,Finetooth Shark,LC,NT,N,Sharks_Rays,2020
+16,Carcharhinus leucas,Bull Shark,NT,VU,N,Sharks_Rays,2020
+17,Carcharhinus limbatus,Blacktip Shark,NT,VU,N,Sharks_Rays,2020
+18,Carcharhinus perezi,Caribbean Reef Shark,NT,EN,G,Sharks_Rays,2020
+19,Carcharhinus plumbeus,Sandbar Shark,VU,EN,N,Sharks_Rays,2020
+21,Carcharhinus signatus,Night Shark,VU,EN,G,Sharks_Rays,2020
+22,Carcharias taurus,Sand Tiger Shark,VU,CR,N,Sharks_Rays,2020
+30,Dasyatis pastinaca,Common Stingray,DD,VU,N,Sharks_Rays,2020
+44,Ginglymostoma cirratum,Atlantic Nurse Shark,DD,VU,N,Sharks_Rays,2020
+47,Gymnura altavela,Spiny Butterfly Ray,VU,EN,N,Sharks_Rays,2020
+49,Gymnura micrura,Smooth Butterfly Ray,DD,NT,N,Sharks_Rays,2020
+64,Mustelus norrisi,Narrowfin Smoothhound,DD,NT,N,Sharks_Rays,2020
+75,Negaprion brevirostris,Lemon Shark,NT,VU,N,Sharks_Rays,2020
+92,Rajella sadowskii,Brazilian Skate,DD,LC,N,Sharks_Rays,2020
+104,Rhizoprionodon porosus,Caribbean Sharpnose Shark,LC,VU,N,Sharks_Rays,2020
+111,Styracura schmardae,Atlantic Chupare,DD,EN,N,Sharks_Rays,2020
+0,Acestrorhynchus maculipinna,,LC,DD,N,Bony_Fishes,2020
+2,Ancylopsetta kumperae,Foureyed Flounder,DD,LC,N,Bony_Fishes,2020
+10,Cynoscion acoupa,Acoupa Weakfish,LC,VU,G,Bony_Fishes,2020
+35,Thunnus alalunga,Albacore Tuna,NT,LC,G,Bony_Fishes,2020
+36,Thunnus albacares,Yellowfin Tuna,NT,LC,G,Bony_Fishes,2020
+37,Thunnus maccoyii,Southern Bluefin Tuna,CR,EN,G,Bony_Fishes,2020
+38,Thunnus orientalis,Pacific Bluefin Tuna,VU,NT,N,Bony_Fishes,2020
+39,Thunnus thynnus,Atlantic Bluefin Tuna,EN,LC,G,Bony_Fishes,2020
+41,Trichomycterus sandovali,Laucha,LC,VU,N,Bony_Fishes,2020
+44,Trichomycterus uisae,Trepador,LC,VU,N,Bony_Fishes,2020
