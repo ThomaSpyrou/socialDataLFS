@@ -1,0 +1,869 @@
+,scientific_name,common_name,before,after,reason_for_change,red_list_version,Category,year
+0,Allactaga euphratica,Euphrates Jerboa,NT,LC,N,2019-3,Mammals,2018
+1,Allochrocebus solatus,Sun-tailed Monkey,VU,NT,N,2019-1,Mammals,2018
+2,Antechinus godmani,Atherton Antechinus,NT,LC,N,2019-1,Mammals,2018
+3,Aotus miconax,Andean Night Monkey,VU,EN,G,2019-2,Mammals,2018
+4,Arctocebus calabarensis,Calabar Angwantibo,LC,NT,G,2019-1,Mammals,2018
+5,Brachyteles arachnoides,Southern Muriqui,EN,CR,N,2019-2,Mammals,2018
+6,Bunomys penitus,Montane Bunomys,NT,LC,N,2019-2,Mammals,2018
+7,Callithrix aurita,Buffy-tufted-ear Marmoset,VU,EN,G,2019-3,Mammals,2018
+8,Callithrix kuhlii,Wied's Marmoset,NT,VU,G,2019-3,Mammals,2018
+9,Callosciurus nigrovittatus,Black-striped Squirrel,NT,LC,N,2019-1,Mammals,2018
+10,Callosciurus quinquestriatus,Anderson's Squirrel,NT,LC,N,2019-3,Mammals,2018
+11,Cebuella pygmaea,Pygmy Marmoset,LC,VU,G,2019-3,Mammals,2018
+12,Cercocebus torquatus,Red-capped Mangabey,VU,EN,G,2019-1,Mammals,2018
+13,Cercopithecus diana,Diana Monkey,VU,EN,G,2019-3,Mammals,2018
+14,Cercopithecus dryas,Dryas Monkey,CR,EN,N,2019-1,Mammals,2018
+15,Cercopithecus lowei,Lowe's Monkey,LC,VU,G,2019-1,Mammals,2018
+16,Cercopithecus nictitans,Putty-nosed Monkey,LC,NT,G,2019-3,Mammals,2018
+17,Cercopithecus roloway,Roloway Monkey,EN,CR,G,2019-1,Mammals,2018
+18,Cercopithecus sclateri,Sclater's Monkey,VU,EN,G,2019-1,Mammals,2018
+19,Cerradomys marinhus,Marinho's Rice Rat,DD,LC,N,2019-1,Mammals,2018
+20,Coelops frithii,Tail-less Leaf-nosed Bat,LC,NT,N,2019-3,Mammals,2018
+21,Colobus vellerosus,White-thighed Colobus,VU,CR,G,2019-3,Mammals,2018
+22,Craseonycteris thonglongyai,Hog-nosed Bat,VU,NT,N,2019-3,Mammals,2018
+23,Crocidura desperata,Desperate Shrew,EN,VU,N,2019-3,Mammals,2018
+24,Crocidura nana,Dwarf White-toothed Shrew,LC,DD,N,2019-1,Mammals,2018
+25,Crocidura tansaniana,Tanzanian Shrew,EN,NT,N,2019-2,Mammals,2018
+26,Crocidura zimmermanni,Zimmermann's Shrew,VU,EN,N,2019-1,Mammals,2018
+27,Crunomys melanius,Mindanao Shrew Mouse,VU,LC,N,2019-2,Mammals,2018
+28,Ctenomys azarae,Azara's Tuco-tuco,VU,EN,N,2019-3,Mammals,2018
+29,Ctenomys bergi,,VU,EN,N,2019-3,Mammals,2018
+30,Ctenomys emilianus,Emily's Tuco-tuco,NT,LC,N,2019-3,Mammals,2018
+31,Ctenomys fulvus,Tawny Tuco-tuco,LC,DD,N,2019-1,Mammals,2018
+32,Ctenomys latro,Mottled Tuco-tuco,VU,EN,N,2019-3,Mammals,2018
+33,Ctenomys magellanicus,Magellanic Tuco-tuco,VU,LC,N,2019-1,Mammals,2018
+34,Ctenomys pundti,,VU,EN,N,2019-3,Mammals,2018
+35,Dasyprocta coibae,Coiban Agouti,VU,NT,N,2019-1,Mammals,2018
+36,Dremomys gularis,Red-throated Squirrel,LC,DD,N,2019-1,Mammals,2018
+37,Emballonura serii,Seri's Sheath-tailed Bat,LC,VU,N,2019-3,Mammals,2018
+38,Eothenomys proditor,Yulongxuen Red-backed Vole,LC,DD,N,2019-1,Mammals,2018
+39,Eptesicus bobrinskoi,Bobrinski's Serotine,LC,DD,N,2019-3,Mammals,2018
+40,Gerbillus latastei,Lataste's Gerbil,LC,DD,N,2019-1,Mammals,2018
+41,Grammomys dryas,Forest Thicket Rat,NT,LC,N,2019-1,Mammals,2018
+42,Handleyomys rhabdops,Striped Rice Rat,VU,EN,N,2019-3,Mammals,2018
+43,Hipposideros turpis,Lesser Leaf-nosed Bat,NT,EN,N,2019-3,Mammals,2018
+44,Histiotus laephotis,Thomas's Big-eared Brown Bat,NT,LC,N,2019-2,Mammals,2018
+45,Hylaeamys laticeps,Large-headed Rice Rat,NT,VU,N,2019-3,Mammals,2018
+46,Ichthyomys hydrobates,Crab-eating Rat,NT,LC,N,2019-3,Mammals,2018
+47,Ichthyomys pittieri,Pittier's Crab-eating Rat,VU,NT,N,2019-2,Mammals,2018
+48,Juliomys rimofrons,Cleft-headed Juliomys,VU,NT,N,2019-1,Mammals,2018
+49,Kadarsanomys sodyi,Javan Bamboo Rat,VU,EN,N,2019-1,Mammals,2018
+50,Lagenorhynchus australis,Peale's Dolphin,DD,LC,N,2019-1,Mammals,2018
+51,Lagenorhynchus obscurus,Dusky Dolphin,DD,LC,N,2019-1,Mammals,2018
+52,Lariscus hosei,Four-striped Ground Squirrel,NT,LC,N,2019-1,Mammals,2018
+53,Lemniscomys mittendorfi,Mittendorf's Striped Grass Mouse,VU,LC,N,2019-1,Mammals,2018
+54,Lepus callotis,White-sided Jackrabbit,NT,VU,N,2019-2,Mammals,2018
+55,Lepus fagani,Ethiopian Hare,DD,LC,N,2019-1,Mammals,2018
+56,Lepus insularis,Black Jackrabbit,NT,VU,N,2019-3,Mammals,2018
+57,Lophocebus albigena,Grey-cheeked Mangabey,LC,VU,G,2019-3,Mammals,2018
+58,Lophocebus aterrimus,Black Mangabey,NT,VU,G,2019-3,Mammals,2018
+59,Manis culionensis,Philippine Pangolin,EN,CR,N,2019-3,Mammals,2018
+60,Margaretamys beccarii,Spiny Lowland Margaretamys,VU,DD,N,2019-3,Mammals,2018
+61,Megadendromus nikolausi,Nikolaus's Mouse,DD,VU,N,2019-1,Mammals,2018
+62,Melomys fraterculus,Manusela Melomys,CR,EN,N,2019-3,Mammals,2018
+63,Mesembriomys macrurus,Golden-backed Tree-rat,LC,NT,N,2019-1,Mammals,2018
+64,Mico nigriceps,Black-headed Marmoset,DD,NT,N,2019-3,Mammals,2018
+65,Microdillus peeli,Somali Pygmy Gerbil,LC,DD,N,2019-1,Mammals,2018
+66,Microperoryctes aplini,Arfak Pygmy Bandicoot,DD,VU,N,2019-1,Mammals,2018
+67,Microperoryctes murina,Mouse Bandicoot,DD,VU,N,2019-1,Mammals,2018
+68,Microsciurus flaviventer,Amazon Dwarf Squirrel,DD,LC,N,2019-1,Mammals,2018
+69,Microtus felteni,Balkan Pine Vole,DD,LC,N,2019-3,Mammals,2018
+70,Microtus irani,Persian Vole,DD,VU,N,2019-1,Mammals,2018
+71,Microtus sachalinensis,Sakhalin Vole,NT,LC,N,2019-1,Mammals,2018
+72,Millardia kondana,Kondana Rat,CR,EN,N,2019-3,Mammals,2018
+73,Miniopterus macrocneme,Small Melanesian Bent-winged Bat,DD,LC,N,2019-3,Mammals,2018
+74,Miopithecus ogouensis,Northern Talapoin Monkey,LC,NT,G,2019-3,Mammals,2018
+75,Miopithecus talapoin,Southern Talapoin Monkey,LC,VU,G,2019-3,Mammals,2018
+76,Murina puta,Taiwanese Tube-nosed Bat,NT,LC,N,2019-3,Mammals,2018
+77,Murina tubinaris,Scully's Tube-nosed Bat,LC,DD,N,2019-3,Mammals,2018
+78,Mus callewaerti,Callewaert's Mouse,LC,DD,N,2019-1,Mammals,2018
+79,Myomyscus yemeni,Yemeni Mouse,LC,DD,N,2019-1,Mammals,2018
+80,Myosorex babaulti,Babault's Mouse Shrew,NT,LC,N,2019-1,Mammals,2018
+81,Myotis macrotarsus,Pallid Large-footed Myotis,NT,LC,N,2019-3,Mammals,2018
+82,Myotis pilosus,Rickett's Big-footed Myotis,NT,VU,N,2019-3,Mammals,2018
+83,Mystromys albicaudatus,White-tailed Rat,EN,VU,N,2019-1,Mammals,2018
+84,Necromys obscurus,Dark Bolo Mouse,NT,LC,N,2019-3,Mammals,2018
+85,Nelsonia neotomodon,Diminutive Wood Rat,NT,LC,N,2019-3,Mammals,2018
+86,Neomicroxus latebricola,Ecuadorean Grass Mouse,VU,EN,N,2019-1,Mammals,2018
+87,Neoromicia malagasyensis,Isalo Serotine,EN,VU,N,2019-1,Mammals,2018
+88,Neotoma phenax,Sonoran Woodrat,NT,LC,N,2019-3,Mammals,2018
+89,Nesolagus netscheri,Sumatran Striped Rabbit,VU,DD,N,2019-2,Mammals,2018
+90,Nesolagus timminsi,Annamite Striped Rabbit,DD,EN,N,2019-1,Mammals,2018
+91,Notopteris neocaledonica,New Caledonia Blossom Bat,VU,EN,G,2019-3,Mammals,2018
+92,Oenomys ornatus,Ghana Rufous-nosed Rat,LC,DD,N,2019-1,Mammals,2018
+93,Oryctolagus cuniculus,European Rabbit,NT,EN,G,2019-3,Mammals,2018
+94,Oryzomys dimidiatus,Thomas's Rice Rat,LC,DD,N,2019-1,Mammals,2018
+95,Otomys laminatus,Laminate Vlei Rat,LC,NT,G,2019-1,Mammals,2018
+96,Oxymycterus josei,,EN,NT,N,2019-1,Mammals,2018
+97,Paracrocidura maxima,Greater Large-headed Shrew,NT,LC,N,2019-1,Mammals,2018
+98,Paraxerus vexillarius,Svynnerton's Bush Squirrel,NT,LC,N,2019-3,Mammals,2018
+99,Phaenomys ferrugineus,Rio de Janeiro Arboreal Rat,VU,EN,N,2019-1,Mammals,2018
+100,Phataginus tricuspis,White-bellied Pangolin,VU,EN,N,2019-3,Mammals,2018
+101,Phloeomys cumingi,Southern Luzon Phloeomys,VU,LC,N,2019-1,Mammals,2018
+102,Piliocolobus bouvieri,Bouvier's Red Colobus,CR,EN,N,2019-3,Mammals,2018
+103,Piliocolobus gordonorum,Udzungwa Red Colobus,EN,VU,N,2019-3,Mammals,2018
+104,Piliocolobus oustaleti,Oustalet's Red Colobus,LC,VU,G,2019-3,Mammals,2018
+105,Piliocolobus pennantii,Pennant's Red Colobus,EN,CR,G,2019-3,Mammals,2018
+106,Piliocolobus rufomitratus,Tana River Red Colobus,EN,CR,G,2019-3,Mammals,2018
+107,Piliocolobus tholloni,Tshuapa Red Colobus,NT,VU,G,2019-3,Mammals,2018
+108,Piliocolobus waldroni,Miss Waldron's Red Colobus,CR,CR(PE),G,2019-1,Mammals,2018
+109,Pipistrellus endoi,Endo's Pipistrelle,EN,NT,N,2019-3,Mammals,2018
+110,Podomys floridanus,Florida Mouse,VU,NT,N,2019-1,Mammals,2018
+111,Pogonomelomys bruijnii,Bruijn's Pogonomelomys,NT,LC,N,2019-2,Mammals,2018
+112,Porcula salvania,Pygmy Hog,CR,EN,G,2019-3,Mammals,2018
+113,Procolobus verus,Olive Colobus,NT,VU,G,2019-1,Mammals,2018
+114,Prosciurillus leucomus,Whitish Dwarf Squirrel,DD,LC,N,2019-3,Mammals,2018
+115,Prosciurillus murinus,Celebes Dwarf Squirrel,DD,LC,N,2019-1,Mammals,2018
+116,Prosciurillus weberi,Weber's Sulawesi Dwarf Squirrel,DD,EN,N,2019-1,Mammals,2018
+117,Protoxerus aubinnii,Slender-tailed Squirrel,DD,NT,N,2019-1,Mammals,2018
+118,Pseudochirops archeri,Green Ringtail Possum,LC,NT,N,2019-1,Mammals,2018
+119,Pseudomys occidentalis,Western Mouse,LC,NT,N,2019-1,Mammals,2018
+120,Pteropus faunulus,Nicobar Flying Fox,VU,EN,N,2019-3,Mammals,2018
+121,Pudu mephistophiles,Northern Pudu,VU,DD,N,2019-1,Mammals,2018
+122,Rattus mollicomulus,Lompobatang Sulawesi Rat,VU,LC,N,2019-1,Mammals,2018
+123,Reithrodontomys tenuirostris,Narrow-nosed Harvest Mouse,VU,EN,N,2019-3,Mammals,2018
+124,Rhagomys rufescens,Brazilian Arboreal Mouse,NT,VU,N,2019-1,Mammals,2018
+125,Rhinolophus formosae,Formosan Woolly Horseshoe Bat,NT,LC,N,2019-3,Mammals,2018
+126,Rousettus madagascariensis,Madagascan Rousette,NT,VU,G,2019-3,Mammals,2018
+127,Rungwecebus kipunji,Kipunji,CR,EN,N,2019-3,Mammals,2018
+128,Saguinus bicolor,Pied Tamarin,EN,CR,G,2019-3,Mammals,2018
+129,Saguinus geoffroyi,Geoffroy's Tamarin,LC,NT,G,2019-3,Mammals,2018
+130,Saguinus martinsi,Martin's Ochraceous Bare-face Tamarin,LC,NT,G,2019-3,Mammals,2018
+131,Sapajus libidinosus,Bearded Capuchin,LC,NT,G,2019-3,Mammals,2018
+132,Sciurillus pusillus,Neotropical Pygmy Squirrel,DD,LC,N,2019-1,Mammals,2018
+133,Sciurus ignitus,Bolivian Squirrel,DD,LC,N,2019-1,Mammals,2018
+134,Smutsia gigantea,Giant Ground Pangolin,VU,EN,N,2019-3,Mammals,2018
+135,Sorex antinorii,Valais Shrew,DD,LC,N,2019-1,Mammals,2018
+136,Sorex buchariensis,Pamir Shrew,LC,DD,N,2019-1,Mammals,2018
+137,Sturnira mordax,Talamancan Yellow-shouldered Bat,NT,LC,N,2019-2,Mammals,2018
+138,Styloctenium mindorensis,Mindoro Stripe-faced Fruit Bat,DD,EN,N,2019-3,Mammals,2018
+139,Sundamys maxi,Javan Sundamys,EN,VU,N,2019-1,Mammals,2018
+140,Sylvilagus brasiliensis,Tapeti,LC,EN,N,2019-2,Mammals,2018
+141,Sylvilagus insonus,Omiltemi Cottontail,EN,DD,N,2019-2,Mammals,2018
+142,Sylvilagus robustus,Davis Mountains Cottontail,EN,VU,N,2019-3,Mammals,2018
+143,Sylvisorex isabellae,Bioko Forest Shrew,EN,VU,N,2019-3,Mammals,2018
+144,Sylvisorex lunaris,Moon Forest Shrew,VU,NT,N,2019-1,Mammals,2018
+145,Sylvisorex vulcanorum,Volcano Shrew,NT,LC,N,2019-1,Mammals,2018
+146,Syncerus caffer,African Buffalo,LC,NT,N,2019-1,Mammals,2018
+147,Syntheosciurus brochus,Bangs's Mountain Squirrel,NT,DD,N,2019-1,Mammals,2018
+148,Thomasomys monochromos,Unicolored Oldfield Mouse,EN,VU,N,2019-2,Mammals,2018
+149,Thomasomys praetor,,DD,NT,N,2019-1,Mammals,2018
+150,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,DD,NT,N,2019-3,Mammals,2018
+151,Tylomys bullaris,Chiapan Climbing Rat,CR,CR(PE),N,2019-1,Mammals,2018
+152,Tylomys tumbalensis,Tumbal� Climbing Rat ,CR,CR(PE),N,2019-1,Mammals,2018
+153,Urocitellus brunneus,Northern Idaho Ground Squirrel,CR,EN,N,2019-3,Mammals,2018
+0,Acridotheres cinereus,Pale-bellied Myna,LC,VU,N,2019-3,Birds,2018
+1,Alophoixus bres,Brown-cheeked Bulbul,LC,NT,G,2019-3,Birds,2018
+2,Amazilia castaneiventris,Chestnut-bellied Hummingbird,EN,NT,N,2019-3,Birds,2018
+3,Amazona aestiva,Turquoise-fronted Amazon,LC,NT,G,2019-3,Birds,2018
+4,Amazona imperialis,Imperial Amazon,EN,CR,G,2019-3,Birds,2018
+5,Certhia tianquanensis,Sichuan Treecreeper,NT,LC,N,2019-3,Birds,2018
+6,Chlorochrysa nitidissima,Multicolored Tanager,VU,NT,N,2019-3,Birds,2018
+7,Chloropsis cochinchinensis,Javan Leafbird,NT,EN,G,2019-3,Birds,2018
+8,Chloropsis media,Sumatran Leafbird,VU,EN,G,2019-3,Birds,2018
+9,Chloropsis sonnerati,Greater Green Leafbird,VU,EN,N,2019-3,Birds,2018
+10,Cichlocolaptes mazarbarnetti,Cryptic Treehunter,CR,EX,G,2019-3,Birds,2018
+11,Clytorhynchus hamlini,Rennell Shrikebill,LC,NT,N,2019-3,Birds,2018
+12,Cotinga maculata,Banded Cotinga,EN,CR,G,2019-3,Birds,2018
+13,Cranioleuca henricae,Bolivian Spinetail,EN,VU,N,2019-3,Birds,2018
+14,Cyanolyca nanus,Dwarf Jay,VU,NT,N,2019-3,Birds,2018
+15,Cyanopsitta spixii,Spix's Macaw,CR,EW,G,2019-3,Birds,2018
+16,Dacnis viguieri,Viridian Dacnis,NT,LC,N,2019-3,Birds,2018
+17,Dendrocygna arborea,West Indian Whistling-duck,VU,NT,N,2019-3,Birds,2018
+18,Diglossa gloriosissima,Chestnut-bellied Flowerpiercer,EN,NT,N,2019-3,Birds,2018
+19,Eleothreptus candicans,White-winged Nightjar,EN,VU,N,2019-3,Birds,2018
+20,Eos semilarvata,Blue-eared Lory,LC,NT,N,2019-3,Birds,2018
+21,Eremomela turneri,Turner's Eremomela,EN,NT,N,2019-3,Birds,2018
+22,Formicivora acutirostris,Parana Antwren,EN,NT,N,2019-3,Birds,2018
+23,Grallaricula lineifrons,Crescent-faced Antpitta,NT,LC,N,2019-3,Birds,2018
+24,Gymnobucco vernayi,Pale-throated Barbet,LC,VU,G,2019-3,Birds,2018
+25,Haemorhous cassinii,Cassin's Finch,NT,LC,G,2019-3,Birds,2018
+26,Hemitriccus cinnamomeipectus,Cinnamon-breasted Tody-tyrant,VU,LC,N,2019-3,Birds,2018
+27,Hydrobates hornbyi,Ringed Storm-petrel,DD,NT,N,2019-3,Birds,2018
+28,Hydrobates markhami,Markham's Storm-petrel,DD,NT,N,2019-3,Birds,2018
+29,Hydrobates tristrami,Tristram's Storm-petrel,NT,LC,N,2019-3,Birds,2018
+30,Hydrornis gurneyi,Gurney's Pitta,EN,CR,G,2019-3,Birds,2018
+31,Hypocnemis cantator,Guianan Antwarbler,NT,LC,N,2019-3,Birds,2018
+32,Hypotaenidia owstoni,Guam Rail,EW,CR,G,2019-3,Birds,2018
+33,Laterallus jamaicensis,Black Rail,NT,EN,G,2019-3,Birds,2018
+34,Lipaugus ater,Black-and-gold Cotinga,NT,LC,N,2019-3,Birds,2018
+35,Loriculus flosculus,Flores Hanging-parrot,EN,VU,N,2019-3,Birds,2018
+36,Megapodius pritchardii,Tongan Scrubfowl,EN,VU,G,2019-3,Birds,2018
+37,Megapodius tenimberensis,Tanimbar Scrubfowl,NT,VU,N,2019-3,Birds,2018
+38,Melamprosops phaeosoma,Poo-uli,CR,EX,G,2019-3,Birds,2018
+39,Melanerpes herminieri,Guadeloupe Woodpecker,NT,LC,N,2019-3,Birds,2018
+40,Myiopagis olallai,Foothill Elaenia,VU,LC,N,2019-3,Birds,2018
+41,Pachyramphus spodiurus,Slaty Becard,EN,VU,N,2019-3,Birds,2018
+42,Philydor novaesi,Alagoas Foliage-gleaner,CR,EX,G,2019-3,Birds,2018
+43,Phylloscartes kronei,Restinga Tyrannulet,VU,LC,N,2019-3,Birds,2018
+44,Picumnus minutissimus,Arrowhead Piculet,NT,LC,N,2019-3,Birds,2018
+45,Poospiza rufosuperciliaris,Rufous-browed Hemispingus,VU,LC,N,2019-3,Birds,2018
+46,Psarocolius cassini,Baudo Oropendola,EN,VU,N,2019-3,Birds,2018
+47,Psittacula eques,Echo Parakeet,EN,VU,G,2019-3,Birds,2018
+48,Psittiparus margaritae,Black-headed Parrotbill,NT,VU,N,2019-3,Birds,2018
+49,Pterodroma ultima,Murphy's Petrel,NT,LC,G,2019-3,Birds,2018
+50,Setophaga cerulea,Cerulean Warbler,VU,NT,G,2019-3,Birds,2018
+51,Todiramphus tutus,Chattering Kingfisher,LC,NT,N,2019-3,Birds,2018
+52,Turdus lherminieri,Forest Thrush,VU,NT,G,2019-3,Birds,2018
+53,Vireo atricapilla,Black-capped Vireo,VU,NT,G,2019-3,Birds,2018
+54,Vireo masteri,Choco Vireo,EN,NT,N,2019-3,Birds,2018
+55,Xanthopsar flavus,Saffron-cowled Blackbird,VU,EN,N,2019-3,Birds,2018
+56,Xenotriccus callizonus,Belted Flycatcher,NT,LC,N,2019-3,Birds,2018
+57,Zosterops flavus,Javan White-eye,VU,EN,N,2019-3,Birds,2018
+58,Zosterops leucophaeus,Principe Speirops,NT,LC,N,2019-3,Birds,2018
+0,Amerotyphlops amoipira,,DD,LC,N,2019-2,Reptiles,2018
+1,Anolis megalopithecus,Ruida's Anole,DD,LC,N,2019-2,Reptiles,2018
+2,Antillotyphlops monensis,Mona Blind Snake,EN,LC,N,2019-3,Reptiles,2018
+3,Apostolepis phillipsae,,LC,VU,N,2019-3,Reptiles,2018
+4,Apostolepis polylepis,,DD,LC,N,2019-2,Reptiles,2018
+5,Bachia trisanale,Stacy's Bachia,DD,LC,N,2019-2,Reptiles,2018
+6,Batagur dhongoka,Three-striped Roofed Turtle,EN,CR,G,2019-1,Reptiles,2018
+7,Batagur trivittata,Burmese Roofed Turtle,EN,CR,N,2019-1,Reptiles,2018
+8,Bitis schneideri,Namaqua Dwarf Adder,VU,LC,N,2019-3,Reptiles,2018
+9,Bothrocophias myersi,Chocoan Toadheaded Pitviper,LC,NT,N,2019-2,Reptiles,2018
+10,Bothrops lojanus,Lojan Lancehead,EN,VU,N,2019-2,Reptiles,2018
+11,Calotes medogensis,,DD,LC,N,2019-3,Reptiles,2018
+12,Calyptommatus confusionibus,,EN,LC,N,2019-1,Reptiles,2018
+13,Celestus scansorius,,NT,EN,N,2019-3,Reptiles,2018
+14,Cordylus meculae,Mecula Girdled Lizard,EN,LC,N,2019-3,Reptiles,2018
+15,Cyclura cornuta,Hispaniolan Rhinoceros Iguana,VU,EN,G,2019-2,Reptiles,2018
+16,Cyclura ricordii,Ricord's Rock Iguana,CR,EN,N,2019-2,Reptiles,2018
+17,Cyrtodactylus wayakonei,,LC,NT,N,2019-3,Reptiles,2018
+18,Dibamus bourreti,Bourret's Blind Skink,DD,LC,N,2019-3,Reptiles,2018
+19,Epictia rufidorsa,Rose Blind Snake,LC,DD,N,2019-3,Reptiles,2018
+20,Erythrolamprus atraventer,Dixon's Ground Snake,VU,LC,N,2019-2,Reptiles,2018
+21,Eurolophosaurus nanuzae,Rodrigues' Lava Lizard,NT,LC,N,2019-1,Reptiles,2018
+22,Geoclemys hamiltonii,Spotted Pond Turtle,VU,EN,G,2019-1,Reptiles,2018
+23,Hoplodactylus duvaucelii,Duvaucel's Gecko,LR/lc,NT,N,2019-2,Reptiles,2018
+24,Indotestudo elongata,Elongated Tortoise,EN,CR,N,2019-1,Reptiles,2018
+25,Liolaemus gravenhorstii,,DD,EN,N,2019-3,Reptiles,2018
+26,Liolaemus vallecurensis,,LC,NT,G,2019-3,Reptiles,2018
+27,Lygophis vanzolinii,Vanzolini's Ground Snake,DD,NT,N,2019-3,Reptiles,2018
+28,Lygosoma anguinum,,DD,LC,N,2019-2,Reptiles,2018
+29,Malaclemys terrapin,Diamondback Terrapin,LR/nt,VU,G,2019-1,Reptiles,2018
+30,Malacochersus tornieri,Pancake Tortoise,VU,CR,G,2019-1,Reptiles,2018
+31,Manouria emys,Asian Giant Tortoise,EN,CR,N,2019-1,Reptiles,2018
+32,Mokopirirakau kahutarae,Black-eyed Gecko,LR/nt,VU,N,2019-2,Reptiles,2018
+33,Naultinus gemmeus,Jewelled Gecko,NT,EN,N,2019-2,Reptiles,2018
+34,Naultinus manukanus,Marlborough Green Gecko,DD,EN,N,2019-2,Reptiles,2018
+35,Naultinus rudis,Rough Gecko,LR/lc,EN,N,2019-2,Reptiles,2018
+36,Oligosoma grande,Grand Skink,VU,EN,N,2019-2,Reptiles,2018
+37,Oligosoma homalonotum,Chevron Skink,VU,EN,N,2019-2,Reptiles,2018
+38,Oligosoma microlepis,Small-scaled Skink,VU,EN,N,2019-2,Reptiles,2018
+39,Oligosoma waimatense,Scree Skink,VU,EN,N,2019-2,Reptiles,2018
+40,Oligosoma whitakeri,Whitaker's New Zealand Skink,VU,EN,N,2019-2,Reptiles,2018
+41,Ptychoglossus bicolor,Werner's Largescale Lizard,VU,LC,N,2019-3,Reptiles,2018
+42,Rhampholeon gorongosae,Mount Gorongosa Pygmy Chameleon,LC,EN,G,2019-3,Reptiles,2018
+43,Rhampholeon tilburyi,Mount Namuli Pygmy Chameleon,CR,EN,N,2019-3,Reptiles,2018
+44,Sauromalus hispidus,Spiny Chuckwalla,NT,EN,G,2019-2,Reptiles,2018
+45,Scincella monticola,Mountainous Dwarf Skink,NT,LC,N,2019-2,Reptiles,2018
+46,Sphaerodactylus callocricus,Callous Least Gecko,VU,CR,N,2019-2,Reptiles,2018
+47,Sphenomorphus cyanolaemus,Blue-headed Forest Skink,NT,LC,N,2019-3,Reptiles,2018
+48,Sphenomorphus microtympanus,,DD,LC,N,2019-2,Reptiles,2018
+49,Stenocercus fimbriatus,Western Leaf Lizard,LR/nt,LC,N,2019-3,Reptiles,2018
+50,Tachymenis chilensis,Chilean Slender Snake,LC,NT,N,2019-3,Reptiles,2018
+51,Taeniophallus nebularis,,DD,CR,N,2019-3,Reptiles,2018
+52,Tetradactylus breyeri,Breyer's Long-tailed Seps,LC,NT,N,2019-3,Reptiles,2018
+53,Toropuku stephensi,Stephen's Island Gecko,VU,EN,N,2019-2,Reptiles,2018
+54,Tukutuku rakiurae,Harlequin Gecko,LR/nt,EN,N,2019-2,Reptiles,2018
+55,Woodworthia chrysosiretica,Goldstripe Gecko,LR/lc,NT,N,2019-2,Reptiles,2018
+0,Afrixalus vibekensis,Nimba Banana Frog,NT,LC,N,2019-1,Amphibians,2018
+1,Agalychnis psilopygion,,DD,LC,N,2019-3,Amphibians,2018
+2,Allobates cepedai,,DD,VU,N,2019-3,Amphibians,2018
+3,Allobates juanii,,CR,EN,N,2019-3,Amphibians,2018
+4,Allobates picachos,,DD,EN,N,2019-3,Amphibians,2018
+5,Allobates ranoides,Llanos Rocket Frog,EN,CR,N,2019-3,Amphibians,2018
+6,Alsodes hugoi,,DD,VU,N,2019-2,Amphibians,2018
+7,Alsodes igneus,,DD,VU,N,2019-2,Amphibians,2018
+8,Alsodes vanzolinii,Vanzolini's Spiny-chest Frog,CR,EN,N,2019-1,Amphibians,2018
+9,Alsodes verrucosus,Olive Spiny-chest Frog,DD,EN,N,2019-1,Amphibians,2018
+10,Ameerega andina,La Planada Poison Frog,DD,CR,N,2019-1,Amphibians,2018
+11,Amnirana asperrima,Nkongsamba Frog,EN,VU,N,2019-1,Amphibians,2018
+12,Amnirana occidentalis,Ivory Coast Frog,EN,LC,N,2019-1,Amphibians,2018
+13,Anomaloglossus beebei,Beebe's Rocket Frog,VU,EN,N,2019-1,Amphibians,2018
+14,Anomaloglossus degranvillei,Degranville's Rocket Frog,LC,CR,G,2019-1,Amphibians,2018
+15,Ansonia endauensis,,DD,NT,N,2019-1,Amphibians,2018
+16,Ansonia jeetsukumarani,Jeet Sukumaran's Torrent-Dwelling Toad,DD,VU,N,2019-1,Amphibians,2018
+17,Ansonia latiffi,Latiff's Torrent-Dwelling Toad,DD,NT,N,2019-1,Amphibians,2018
+18,Ansonia leptopus,Brown Slender Toad,NT,LC,N,2019-1,Amphibians,2018
+19,Ansonia tiomanica,Pulo Tioman Stream Toad,VU,LC,N,2019-1,Amphibians,2018
+20,Arthroleptis aureoli,Freetown Long-fingered Frog,EN,NT,N,2019-3,Amphibians,2018
+21,Arthroleptis krokosua,Krokosua Squeaking Frog,NT,CR,G,2019-1,Amphibians,2018
+22,Arthroleptis langeri,,DD,EN,N,2019-1,Amphibians,2018
+23,Atelognathus patagonicus,Patagonia Frog,EN,CR,G,2019-1,Amphibians,2018
+24,Atelognathus salai,Portezuelo Frog,VU,LC,N,2019-1,Amphibians,2018
+25,Atelognathus solitarius,Las Bayas Frog,VU,DD,N,2019-1,Amphibians,2018
+26,Atelopus angelito,,CR,CR(PE),N,2019-1,Amphibians,2018
+27,Atelopus certus,Darien Stubfoot Toad,EN,CR,N,2019-3,Amphibians,2018
+28,Atelopus dimorphus,,EN,DD,N,2019-1,Amphibians,2018
+29,Atelopus elegans,Elegant Stubfoot Toad,CR,EN,N,2019-3,Amphibians,2018
+30,Atelopus franciscus,Central Coast Stubfoot Toad,VU,LC,N,2019-3,Amphibians,2018
+31,Atelopus limosus,Limosa Harlequin Frog,EN,CR,G,2019-3,Amphibians,2018
+32,Atelopus reticulatus,Arlequ�n Reticulado,CR,DD,N,2019-1,Amphibians,2018
+33,Atelopus sanjosei,Anori Stubfoot Toad,DD,CR,N,2019-3,Amphibians,2018
+34,Batrachyla nibaldoi,Nibaldo's Wood Frog,DD,LC,N,2019-1,Amphibians,2018
+35,Boana cordobae,,DD,LC,N,2019-1,Amphibians,2018
+36,Bolitoglossa adspersa,Peter's Mushroomtongue Salamander,LC,NT,N,2019-3,Amphibians,2018
+37,Bolitoglossa diaphora,,CR,EN,N,2019-3,Amphibians,2018
+38,Bolitoglossa hiemalis,Salamandra de P�ramo,DD,VU,N,2019-2,Amphibians,2018
+39,Bolitoglossa hypacra,Paramo Frontino Salamander,LC,EN,G,2019-3,Amphibians,2018
+40,Bolitoglossa lozanoi,,DD,LC,N,2019-2,Amphibians,2018
+41,Bolitoglossa macrinii,Oaxacan Mushroomtongue Salamander,NT,EN,N,2019-3,Amphibians,2018
+42,Bolitoglossa oaxacensis,Atoyac Salamander,DD,EN,N,2019-2,Amphibians,2018
+43,Bolitoglossa peruviana,Peru Mushroomtongue Salamander,LC,DD,N,2019-1,Amphibians,2018
+44,Bolitoglossa ramosi,Ramos' Mushroomtongue Salamander,LC,NT,N,2019-2,Amphibians,2018
+45,Bolitoglossa sima,,VU,LC,N,2019-1,Amphibians,2018
+46,Caecilia bokermanni,Bokermann's Caecilian,DD,LC,N,2019-3,Amphibians,2018
+47,Caecilia guntheri,G�nther's Caecilian,DD,LC,N,2019-3,Amphibians,2018
+48,Caecilia occidentalis,Cauca Caecilian,DD,NT,N,2019-3,Amphibians,2018
+49,Caecilia pachynema,Intac Caecilian,DD,LC,N,2019-3,Amphibians,2018
+50,Caecilia thompsoni,Thompson's Caecilian,DD,LC,N,2019-2,Amphibians,2018
+51,Callimedusa ecuatoriana,Agua Rica Leaf Frog,EN,VU,N,2019-3,Amphibians,2018
+52,Callimedusa perinesos,Orange-spotted Leaf Frog,DD,EN,N,2019-3,Amphibians,2018
+53,Centrolene azulae,Cordillera Azul Giant Glass Frog,EN,DD,N,2019-1,Amphibians,2018
+54,Centrolene ballux,Burrowes' Giant Glass Frog,CR,EN,N,2019-1,Amphibians,2018
+55,Centrolene geckoideum,Pacific Giant Glass Frog,VU,CR,N,2019-2,Amphibians,2018
+56,Centrolene heloderma,Pichincha Giant Glass Frog,CR,VU,N,2019-1,Amphibians,2018
+57,Centrolene huilense,Huila Glass Frog,DD,EN,N,2019-2,Amphibians,2018
+58,Centrolene medemi,,DD,EN,N,2019-2,Amphibians,2018
+59,Centrolene peristictum,Tandapi Giant Glass Frog,VU,LC,N,2019-2,Amphibians,2018
+60,Centrolene scirtetes,Tandayapa Giant Glass Frog,DD,EN,N,2019-2,Amphibians,2018
+61,Centrolene solitaria,Lonely Cochran Frog,DD,EN,N,2019-2,Amphibians,2018
+62,Chaltenobatrachus grandisonae,Puerto Eden Frog,DD,LC,N,2019-1,Amphibians,2018
+63,Cochranella litoralis,,DD,VU,N,2019-2,Amphibians,2018
+64,Cochranella ramirezi,Ramirez's Cochran Frog,DD,NT,N,2019-3,Amphibians,2018
+65,Colostethus imbricolus,Silverstone's Rocket Frog,DD,EN,N,2019-2,Amphibians,2018
+66,Colostethus thorntoni,Thornton's Rocket Frog,DD,VU,N,2019-3,Amphibians,2018
+67,Conraua alleni,Allen's Slippery Frog,VU,LC,N,2019-1,Amphibians,2018
+68,Craugastor anciano,Corquin Robber Frog,CR,EX,N,2019-3,Amphibians,2018
+69,Craugastor aurilegulus,,EN,VU,N,2019-3,Amphibians,2018
+70,Craugastor chrysozetetes,McCranie's Robber Frog,EX,CR,N,2019-3,Amphibians,2018
+71,Craugastor cyanochthebius,,NT,EN,N,2019-3,Amphibians,2018
+72,Craugastor emleni,,CR,EN,N,2019-3,Amphibians,2018
+73,Craugastor omoaensis,Sierra de Omoa Streamside Frog,CR,EX,N,2019-3,Amphibians,2018
+74,Dendrotriton sanctibarbarus,,VU,CR,G,2019-3,Amphibians,2018
+75,Diasporus anthrax,,DD,VU,N,2019-1,Amphibians,2018
+76,Duellmanohyla salvavida,Honduran Brook Frog,CR,EN,N,2019-3,Amphibians,2018
+77,Ecnomiohyla rabborum,Rabb's Fringe-limbed Treefrog,CR,CR(PE),N,2019-1,Amphibians,2018
+78,Elachistocleis skotogaster,,DD,LC,N,2019-1,Amphibians,2018
+79,Epicrionops columbianus,El Tambo Caecilian,DD,EN,N,2019-2,Amphibians,2018
+80,Epicrionops parkeri,Parker's Caecilian,DD,VU,N,2019-3,Amphibians,2018
+81,Epipedobates machalilla,Rana Nodriza De Machalilla,NT,LC,N,2019-3,Amphibians,2018
+82,Epipedobates tricolor,Phantasmal Poison Frog,EN,VU,N,2019-1,Amphibians,2018
+83,Espadarana callistomma,,DD,LC,N,2019-2,Amphibians,2018
+84,Espadarana durrellorum,,VU,LC,N,2019-1,Amphibians,2018
+85,Eupsophus roseus,Rosy Ground Frog,NT,LC,N,2019-1,Amphibians,2018
+86,Eupsophus vertebralis,Valdivia Ground Frog,NT,LC,N,2019-1,Amphibians,2018
+87,Exerodonta catracha,,EN,NT,N,2019-3,Amphibians,2018
+88,Gastrophrynoides borneensis,,VU,LC,N,2019-1,Amphibians,2018
+89,Gastrotheca andaquiensis,Andes Marsupial Frog,NT,LC,N,2019-2,Amphibians,2018
+90,Gastrotheca angustifrons,Pacific Marsupial Frog,VU,CR,N,2019-1,Amphibians,2018
+91,Gastrotheca christiani,Calilegua's Marsupial Frog,EN,CR,N,2019-1,Amphibians,2018
+92,Gastrotheca chrysosticta,Barit�'s Marsupial Frog,VU,EN,N,2019-1,Amphibians,2018
+93,Gastrotheca dendronastes,Rio Calima Marsupial Frog,VU,EN,N,2019-1,Amphibians,2018
+94,Gastrotheca gracilis,La Banderita Marsupial Frog,VU,EN,N,2019-1,Amphibians,2018
+95,Gastrotheca guentheri,Gunther's Marsupial Frog,VU,DD,N,2019-1,Amphibians,2018
+96,Gastrotheca lateonota,El Tambo Marsupial Frog,DD,VU,N,2019-3,Amphibians,2018
+97,Gastrotheca weinlandii,Weinland's Marsupial Frog,DD,LC,N,2019-3,Amphibians,2018
+98,Glyphoglossus brooksii,Brook's Squat Frog,DD,LC,N,2019-1,Amphibians,2018
+99,Glyphoglossus minutus,,DD,NT,N,2019-1,Amphibians,2018
+100,Hemisus perreti,Perret's Shovelnose Frog,DD,LC,N,2019-2,Amphibians,2018
+101,Hyloscirtus caucanus,Cauca Treefrog,DD,EN,N,2019-3,Amphibians,2018
+102,Hyloscirtus denticulentus,Charta Treefrog,EN,VU,N,2019-2,Amphibians,2018
+103,Hyloscirtus larinopygion,Cordillera Central Treefrog,NT,LC,N,2019-1,Amphibians,2018
+104,Hyloscirtus psarolaimus,Papallacta Treefrog,EN,VU,N,2019-1,Amphibians,2018
+105,Hyloscirtus ptychodactylus,,CR,EN,N,2019-1,Amphibians,2018
+106,Hyloscirtus sarampiona,Western Andes Treefrog,DD,EN,N,2019-1,Amphibians,2018
+107,Hyloxalus abditaurantius,Bello Rocket Frog,LC,CR,N,2019-2,Amphibians,2018
+108,Hyloxalus awa,,VU,LC,N,2019-1,Amphibians,2018
+109,Hyloxalus breviquartus,Rana Cohete de Urrao,DD,LC,N,2019-3,Amphibians,2018
+110,Hyloxalus chocoensis,Choco Rocket Frog,DD,EN,N,2019-3,Amphibians,2018
+111,Hyloxalus elachyhistus,Loja Rocket Frog,EN,LC,N,2019-3,Amphibians,2018
+112,Hyloxalus pinguis,Malvasa Rocket Frog,DD,EN,N,2019-2,Amphibians,2018
+113,Hyloxalus pulchellus,Espada's Rocket Frog,VU,NT,N,2019-2,Amphibians,2018
+114,Hyloxalus ramosi,Ramos' Rocket Frog,DD,EN,N,2019-1,Amphibians,2018
+115,Hynobius quelpaertensis,Cheju Salamander,DD,VU,N,2019-1,Amphibians,2018
+116,Hynobius stejnegeri,,VU,LC,N,2019-2,Amphibians,2018
+117,Hyperolius acutirostris,Sharpsnout Reed Frog,NT,LC,N,2019-2,Amphibians,2018
+118,Hyperolius bobirensis,Bobiri Reed Frog,EN,VU,N,2019-1,Amphibians,2018
+119,Hyperolius chlorosteus,Sierra Leone Reed Frog,NT,LC,N,2019-1,Amphibians,2018
+120,Hyperolius endjami,Yaounde Reed Frog,VU,LC,N,2019-1,Amphibians,2018
+121,Hyperolius laurenti,Schiotz's Reed Frog,VU,NT,N,2019-1,Amphibians,2018
+122,Hyperolius riggenbachi,Riggenbach's Reed Frog,VU,LC,N,2019-2,Amphibians,2018
+123,Hyperolius soror,Soror Reed Frog,DD,LC,N,2019-1,Amphibians,2018
+124,Hyperolius torrentis,Ukami Reed Frog,EN,VU,N,2019-1,Amphibians,2018
+125,Hyperolius viridigulosus,Stream Reed Frog,VU,NT,N,2019-1,Amphibians,2018
+126,Ichthyophis biangularis,Metang Caecilian,DD,NT,N,2019-1,Amphibians,2018
+127,Incilius leucomyos,,EN,NT,N,2019-3,Amphibians,2018
+128,Ingerophrynus gollum,,DD,EN,N,2019-1,Amphibians,2018
+129,Isthmohyla insolita,,CR,EN,N,2019-3,Amphibians,2018
+130,Kaloula kokacii,Catanduanes Narrow-mouthed Frog,NT,LC,N,2019-1,Amphibians,2018
+131,Kassina cochranae,Chochran's Running Frog,NT,LC,N,2019-1,Amphibians,2018
+132,Kassina mertensi,Mertens' Running Frog,DD,LC,N,2019-1,Amphibians,2018
+133,Leptobrachella dringi,Dring's Asian Toad,NT,LC,N,2019-1,Amphibians,2018
+134,Leptobrachella gracilis,Slender Litter Frog,NT,LC,N,2019-1,Amphibians,2018
+135,Leptobrachella hamidi,White-bellied Slender Litter Frog,VU,LC,N,2019-1,Amphibians,2018
+136,Leptobrachella mjobergi,Mjoberg's Dwarf Litter Frog,LC,DD,N,2019-1,Amphibians,2018
+137,Leptobrachella serasanae,Striped Dwarf Litter Frog,VU,NT,N,2019-1,Amphibians,2018
+138,Leptodactylodon blanci,,DD,EN,N,2019-2,Amphibians,2018
+139,Limnonectes acanthi,Busuanga Wart Frog,VU,NT,N,2019-1,Amphibians,2018
+140,Limnonectes tweediei,Tweedie's Wart Frog,NT,LC,N,2019-1,Amphibians,2018
+141,Megophrys edwardinae,Edwardina's Spadefoot Toad,VU,LC,N,2019-1,Amphibians,2018
+142,Meristogenys phaeomerus,Kapit Torrent Frog,NT,LC,N,2019-1,Amphibians,2018
+143,Meristogenys poecilus,Malaysian Borneo Frog,NT,LC,N,2019-1,Amphibians,2018
+144,Microhyla annectens,Larut Hills Rice Frog,DD,VU,N,2019-1,Amphibians,2018
+145,Microhyla superciliaris,Batu Cave Rice Frog,DD,LC,N,2019-1,Amphibians,2018
+146,Microkayla boettgeri,,EN,CR,N,2019-1,Amphibians,2018
+147,Myersiohyla liliae,,LC,EN,N,2019-1,Amphibians,2018
+148,Nesorohyla kanaima,Kanaima Treefrog,LC,EN,N,2019-1,Amphibians,2018
+149,Niceforonia nana,Santander Andes Frog,DD,VU,N,2019-1,Amphibians,2018
+150,Noblella heyeri,Heyer's Leaf Frog,DD,LC,N,2019-3,Amphibians,2018
+151,Nototriton lignicola,,CR,EN,N,2019-3,Amphibians,2018
+152,Nymphargus chami,,DD,NT,N,2019-2,Amphibians,2018
+153,Nymphargus cristinae,,DD,EN,N,2019-3,Amphibians,2018
+154,Nymphargus luteopunctatus,,DD,EN,N,2019-2,Amphibians,2018
+155,Nymphargus oreonympha,Caqueta Cochran Frog,DD,LC,N,2019-2,Amphibians,2018
+156,Nymphargus spilotus,,DD,NT,N,2019-2,Amphibians,2018
+157,Occidozyga baluensis,Seep Frog,NT,LC,N,2019-1,Amphibians,2018
+158,Occidozyga floresiana,Flores Oriental Frog,DD,VU,N,2019-1,Amphibians,2018
+159,Odontobatrachus natator,Sierra Leone Water Frog,NT,LC,N,2019-1,Amphibians,2018
+160,Odontophrynus barrioi,Barrio's Escuerzo,DD,LC,N,2019-1,Amphibians,2018
+161,Oedipina gephyra,La Fortuna Worm Salamander,EN,CR,N,2019-3,Amphibians,2018
+162,Oophaga histrionica,Harlequin Poison Frog,LC,CR,N,2019-2,Amphibians,2018
+163,Oophaga vicentei,Vicente's Poison Frog,DD,EN,N,2019-1,Amphibians,2018
+164,Oreophryne jeffersoniana,Komodo Cross Frog,NT,LC,N,2019-1,Amphibians,2018
+165,Oreophryne rookmaakeri,Flores Cross Frog,DD,EN,N,2019-1,Amphibians,2018
+166,Oreophryne zimmeri,Zimmer's Cross Frog,DD,EN,N,2019-1,Amphibians,2018
+167,Oscaecilia polyzona,New Granada Caecilian,DD,LC,N,2019-3,Amphibians,2018
+168,Osteocephalus fuscifacies,,DD,LC,N,2019-3,Amphibians,2018
+169,Pelophryne guentheri,G�nther's Dwarf Toad,VU,LC,N,2019-1,Amphibians,2018
+170,Pelophryne misera,Black Flathead Toad,VU,LC,N,2019-1,Amphibians,2018
+171,Pelophryne signata,Short-legged Dwarf Toad,NT,LC,N,2019-3,Amphibians,2018
+172,Petropedetes palmipes,Efulen Water Frog,EN,VU,N,2019-1,Amphibians,2018
+173,Philautus aurantium,Mendolong Bubble-nest Frog,EN,VU,N,2019-1,Amphibians,2018
+174,Philautus davidlabangi,David Labang's Bush Frog,DD,LC,N,2019-1,Amphibians,2018
+175,Philautus erythrophthalmus,,VU,EN,N,2019-1,Amphibians,2018
+176,Philautus kerangae,Kerangas Bubble-nest Frog,EN,VU,N,2019-1,Amphibians,2018
+177,Philautus longicrus,Palawan Bubble-nest Frog,NT,VU,N,2019-1,Amphibians,2018
+178,Philautus mjobergi,Murud Bubble-nest Frog,NT,LC,N,2019-1,Amphibians,2018
+179,Philautus pallidipes,Pangerango Bubble-nest Frog,VU,LC,N,2019-1,Amphibians,2018
+180,Philautus vittiger,Indonesian Bubble-nest Frog,DD,NT,N,2019-1,Amphibians,2018
+181,Phrynobatrachus alleni,Allen's River Frog,NT,LC,N,2019-1,Amphibians,2018
+182,Phrynobatrachus ghanensis,Ghana River Frog,EN,NT,N,2019-1,Amphibians,2018
+183,Phrynobatrachus guineensis,Guinea River Frog,NT,LC,N,2019-1,Amphibians,2018
+184,Phrynobatrachus liberiensis,Liberia River Frog,NT,LC,N,2019-1,Amphibians,2018
+185,Phrynobatrachus manengoubensis,Manengouba River Frog,DD,CR,N,2019-2,Amphibians,2018
+186,Phrynobatrachus phyllophilus,,NT,LC,N,2019-1,Amphibians,2018
+187,Phrynobatrachus steindachneri,Steindachner's River Frog,VU,CR,G,2019-1,Amphibians,2018
+188,Phrynobatrachus villiersi,Yapo River Frog,VU,LC,N,2019-1,Amphibians,2018
+189,Pristimantis aemulatus,,DD,EN,N,2019-2,Amphibians,2018
+190,Pristimantis albericoi,,CR,CR(PE),N,2019-1,Amphibians,2018
+191,Pristimantis aurantiguttatus,,DD,EN,N,2019-2,Amphibians,2018
+192,Pristimantis baiotis,,DD,NT,N,2019-2,Amphibians,2018
+193,Pristimantis batrachites,,DD,EN,N,2019-3,Amphibians,2018
+194,Pristimantis cacao,Cacao Robber Frog,EN,CR,N,2019-1,Amphibians,2018
+195,Pristimantis caprifer,La Palma Robber Frog,LC,CR,N,2019-3,Amphibians,2018
+196,Pristimantis carlossanchezi,,DD,EN,N,2019-1,Amphibians,2018
+197,Pristimantis carranguerorum,Rana de Lluvia Carranguera,DD,EN,N,2019-2,Amphibians,2018
+198,Pristimantis celator,La Delicia Robber Frog,NT,VU,N,2019-3,Amphibians,2018
+199,Pristimantis chrysops,,EN,CR,N,2019-1,Amphibians,2018
+200,Pristimantis colonensis,,DD,VU,N,2019-3,Amphibians,2018
+201,Pristimantis corniger,,DD,EN,N,2019-2,Amphibians,2018
+202,Pristimantis cryptomelas,Cryptic Robber Frog,EN,NT,N,2019-1,Amphibians,2018
+203,Pristimantis cuentasi,,DD,EN,N,2019-2,Amphibians,2018
+204,Pristimantis deinops,,EN,CR,N,2019-1,Amphibians,2018
+205,Pristimantis diogenes,,VU,CR,N,2019-1,Amphibians,2018
+206,Pristimantis duende,,DD,VU,N,2019-2,Amphibians,2018
+207,Pristimantis epacrus,,DD,LC,N,2019-2,Amphibians,2018
+208,Pristimantis esmeraldas,,DD,LC,N,2019-3,Amphibians,2018
+209,Pristimantis galdi,Espada's Robber Frog,NT,LC,N,2019-3,Amphibians,2018
+210,Pristimantis gladiator,,EN,VU,N,2019-2,Amphibians,2018
+211,Pristimantis grandiceps,Giant Robber Frog,DD,EN,N,2019-2,Amphibians,2018
+212,Pristimantis hectus,Dwarf Robber Frog,DD,VU,N,2019-3,Amphibians,2018
+213,Pristimantis laticlavius,Burrowes' Robber Frog,DD,VU,N,2019-3,Amphibians,2018
+214,Pristimantis leucopus,,DD,EN,N,2019-3,Amphibians,2018
+215,Pristimantis lutitus,Rio Luisito Robber Frog,DD,EN,N,2019-1,Amphibians,2018
+216,Pristimantis lynchi,Lynch's Robber Frog,DD,LC,N,2019-1,Amphibians,2018
+217,Pristimantis metabates,Cut�n de Chiriaco,DD,EN,N,2019-3,Amphibians,2018
+218,Pristimantis muscosus,Cut�n de Musgo,DD,NT,N,2019-1,Amphibians,2018
+219,Pristimantis myops,,DD,EN,N,2019-3,Amphibians,2018
+220,Pristimantis ocellatus,,DD,EN,N,2019-3,Amphibians,2018
+221,Pristimantis orphnolaimus,Lago Agrio Robber Frog,DD,LC,N,2019-1,Amphibians,2018
+222,Pristimantis petersi,Peters' Robber Frog,VU,NT,N,2019-1,Amphibians,2018
+223,Pristimantis polemistes,,VU,CR,N,2019-2,Amphibians,2018
+224,Pristimantis proserpens,Sapote Robber Frog,EN,VU,N,2019-3,Amphibians,2018
+225,Pristimantis ptochus,,DD,EN,N,2019-2,Amphibians,2018
+226,Pristimantis pugnax,Agua Robber Frog,VU,CR,N,2019-3,Amphibians,2018
+227,Pristimantis racemus,Las Hermosas Robber Frog,LC,VU,N,2019-3,Amphibians,2018
+228,Pristimantis reclusas,,DD,CR,N,2019-1,Amphibians,2018
+229,Pristimantis repens,Galeras Robber Frog,VU,EN,N,2019-3,Amphibians,2018
+230,Pristimantis roseus,Andagoya Robber Frog,NT,LC,N,2019-2,Amphibians,2018
+231,Pristimantis scopaeus,,DD,LC,N,2019-2,Amphibians,2018
+232,Pristimantis signifer,,VU,CR,N,2019-3,Amphibians,2018
+233,Pristimantis silverstonei,,NT,VU,N,2019-1,Amphibians,2018
+234,Pristimantis siopelus,Reserve Robber Frog,EN,VU,N,2019-3,Amphibians,2018
+235,Pristimantis sternothylax,Huancabamba Robber Frog,DD,LC,N,2019-3,Amphibians,2018
+236,Pristimantis sulculus,Channel Robber Frog,EN,VU,N,2019-3,Amphibians,2018
+237,Pristimantis susaguae,,DD,EN,N,2019-2,Amphibians,2018
+238,Pristimantis tamsitti,San Adolfo Robber Frog,NT,VU,N,2019-3,Amphibians,2018
+239,Pristimantis uisae,,DD,VU,N,2019-2,Amphibians,2018
+240,Pristimantis xeniolum,,DD,VU,N,2019-2,Amphibians,2018
+241,Pristimantis xestus,,DD,VU,N,2019-2,Amphibians,2018
+242,Pristimantis zoilae,,DD,EN,N,2019-3,Amphibians,2018
+243,Ptychadena retropunctata,Cameroon Grassland Frog,DD,LC,N,2019-1,Amphibians,2018
+244,Ptychadena superciliaris,Sierra Leone Grassland Frog,NT,LC,N,2019-1,Amphibians,2018
+245,Rhacophorus fasciatus,,VU,LC,N,2019-3,Amphibians,2018
+246,Rhacophorus gauni,Inger's Flying Frog,NT,LC,N,2019-1,Amphibians,2018
+247,Rhacophorus harrissoni,Brown Tree Frog,NT,LC,N,2019-1,Amphibians,2018
+248,Rhaebo atelopoides,Western Andes Toad,DD,CR,N,2019-2,Amphibians,2018
+249,Rhaebo olallai,Tandayapa Andes Toad,DD,CR,N,2019-1,Amphibians,2018
+250,Rheobates pseudopalmatus,,DD,LC,N,2019-3,Amphibians,2018
+251,Rhinella achalensis,Sapo de Achala,NT,EN,G,2019-1,Amphibians,2018
+252,Rhinella cristinae,,DD,EN,N,2019-2,Amphibians,2018
+253,Sachatamia orejuela,Rana de Cristal de Orejuela,DD,LC,N,2019-2,Amphibians,2018
+254,Sanguirana everetti,Zamboanga Frog,DD,NT,N,2019-1,Amphibians,2018
+255,Sclerophrys togoensis,Togo Toad,NT,LC,N,2019-1,Amphibians,2018
+256,Sclerophrys villiersi,Villiers' Toad,EN,VU,N,2019-1,Amphibians,2018
+257,Silverstoneia erasmios,,DD,EN,N,2019-2,Amphibians,2018
+258,Stefania ackawaio,,LC,VU,N,2019-1,Amphibians,2018
+259,Stefania ayangannae,,LC,VU,N,2019-1,Amphibians,2018
+260,Stefania coxi,,LC,VU,N,2019-1,Amphibians,2018
+261,Stefania evansi,Evan's Stefania,LC,DD,N,2019-3,Amphibians,2018
+262,Stefania roraimae,,DD,EN,N,2019-1,Amphibians,2018
+263,Stefania woodleyi,Woodley's Stefania,LC,DD,N,2019-1,Amphibians,2018
+264,Strabomantis cheiroplethus,Rio Calles Robber Frog,VU,EN,N,2019-1,Amphibians,2018
+265,Strabomantis necerus,Mindo Robber Frog,VU,CR,N,2019-1,Amphibians,2018
+266,Telmatobius arequipensis,Chili Water Frog,VU,NT,N,2019-1,Amphibians,2018
+267,Telmatobius ceiorum,,EN,CR,N,2019-2,Amphibians,2018
+268,Telmatobius chusmisensis,,DD,EN,N,2019-1,Amphibians,2018
+269,Telmatobius contrerasi,,DD,EN,N,2019-1,Amphibians,2018
+270,Telmatobius fronteriensis,,DD,CR,N,2019-1,Amphibians,2018
+271,Telmatobius hauthali,,VU,EN,G,2019-1,Amphibians,2018
+272,Telmatobius laticeps,,EN,CR,N,2019-2,Amphibians,2018
+273,Telmatobius oxycephalus,,VU,EN,N,2019-1,Amphibians,2018
+274,Telmatobius pinguiculus,,DD,EN,N,2019-1,Amphibians,2018
+275,Tepuihyla warreni,Warren's Treefrog,DD,EN,N,2019-1,Amphibians,2018
+276,Teratohyla amelie,,DD,LC,N,2019-3,Amphibians,2018
+277,Werneria mertensiana,Mertens' Smalltongue Toad,EN,CR,G,2019-1,Amphibians,2018
+278,Wolterstorffina parvipalmata,Cameroon Wolterstorff Toad,VU,CR,G,2019-2,Amphibians,2018
+0,Acroteriobatus leucospilus,Greyspot Guitarfish,DD,EN,N,2019-3,Sharks_Rays,2018
+1,Alopias pelagicus,Pelagic Thresher,VU,EN,N,2019-3,Sharks_Rays,2018
+2,Bathyraja smithii,Softnose Skate,DD,LC,N,2019-2,Sharks_Rays,2018
+3,Bathyraja tunae,Cristina's Skate,DD,LC,N,2019-2,Sharks_Rays,2018
+4,Bythaelurus hispidus,Bristly Catshark,DD,NT,N,2019-3,Sharks_Rays,2018
+5,Carcharhinus dussumieri,Whitecheek Shark,NT,EN,N,2019-1,Sharks_Rays,2018
+6,Carcharhinus galapagensis,Galapagos Shark,NT,LC,N,2019-3,Sharks_Rays,2018
+7,Carcharhinus longimanus,Oceanic Whitetip Shark,VU,CR,N,2019-3,Sharks_Rays,2018
+8,Carcharhinus obscurus,Dusky Shark,VU,EN,N,2019-3,Sharks_Rays,2018
+9,Centrophorus seychellorum,Seychelles Gulper Shark,DD,LC,N,2019-2,Sharks_Rays,2018
+10,Cephaloscyllium albipinnum,Whitefin Swellshark,NT,CR,N,2019-1,Sharks_Rays,2018
+11,Cetorhinus maximus,Basking Shark,VU,EN,N,2019-3,Sharks_Rays,2018
+12,Chlamydoselachus africana,Southern African Frilled Shark,DD,LC,N,2019-2,Sharks_Rays,2018
+13,Cruriraja parcomaculata,Triangular Legskate,DD,LC,N,2019-3,Sharks_Rays,2018
+14,Dipturus springeri,Roughbelly Skate,DD,LC,N,2019-3,Sharks_Rays,2018
+15,Electrolux addisoni,Ornate Sleeper Ray,CR,LC,N,2019-3,Sharks_Rays,2018
+16,Euprotomicroides zantedeschia,Taillight Shark,DD,LC,N,2019-2,Sharks_Rays,2018
+17,Glaucostegus cemiculus,Blackchin Guitarfish,EN,CR,N,2019-2,Sharks_Rays,2018
+18,Glaucostegus granulatus,Sharpnose Guitarfish,VU,CR,N,2019-2,Sharks_Rays,2018
+19,Glaucostegus halavi,Halavi Guitarfish,VU,CR,N,2019-2,Sharks_Rays,2018
+20,Glaucostegus obtusus,Widenose Guitarfish,VU,CR,N,2019-2,Sharks_Rays,2018
+21,Glaucostegus thouin,Clubnose Guitarfish,VU,CR,N,2019-2,Sharks_Rays,2018
+22,Glaucostegus typus,Giant Guitarfish,VU,CR,N,2019-2,Sharks_Rays,2018
+23,Gymnura natalensis,Diamond Ray,DD,LC,N,2019-3,Sharks_Rays,2018
+24,Halaelurus lineatus,Lined Catshark,DD,LC,N,2019-3,Sharks_Rays,2018
+25,Haploblepharus kistnasamyi,Natal Shyshark,CR,VU,N,2019-3,Sharks_Rays,2018
+26,Holohalaelurus melanostigma,Crying Izak Catshark,DD,LC,N,2019-3,Sharks_Rays,2018
+27,Indobatis ori,Black Legskate,DD,LC,N,2019-3,Sharks_Rays,2018
+28,Isurus oxyrinchus,Shortfin Mako,VU,EN,N,2019-1,Sharks_Rays,2018
+29,Isurus paucus,Longfin Mako,VU,EN,N,2019-1,Sharks_Rays,2018
+30,Mobula hypostoma,Atlantic Devilray,DD,EN,N,2019-3,Sharks_Rays,2018
+31,Mobula munkiana,Pygmy Devilray,NT,VU,N,2019-3,Sharks_Rays,2018
+32,Mobula tarapacana,Sicklefin Devilray,VU,EN,N,2019-3,Sharks_Rays,2018
+33,Mobula thurstoni,Bentfin Devilray,NT,EN,N,2019-3,Sharks_Rays,2018
+34,Mustelus mosis,Arabian Smoothhound,DD,NT,N,2019-3,Sharks_Rays,2018
+35,Narcine bancroftii,Caribbean Numbfish,CR,LC,N,2019-2,Sharks_Rays,2018
+36,Narke capensis,Cape Sleeper Ray,DD,LC,N,2019-3,Sharks_Rays,2018
+37,Neoraja stehmanni,South African Dwarf Skate,DD,LC,N,2019-3,Sharks_Rays,2018
+38,Odontaspis noronhai,Bigeye Sand Tiger,DD,LC,N,2019-1,Sharks_Rays,2018
+39,Okamejei heemstrai,Narrow Skate,DD,LC,N,2019-3,Sharks_Rays,2018
+40,Pseudocarcharias kamoharai,Crocodile Shark,NT,LC,N,2019-1,Sharks_Rays,2018
+41,Pseudoginglymostoma brevicaudatum,Shorttail Nurse Shark,VU,CR,G,2019-3,Sharks_Rays,2018
+42,Rajella caudaspinosa,Munchkin Skate,NT,LC,N,2019-3,Sharks_Rays,2018
+43,Rhina ancylostoma,Bowmouth Guitarfish,VU,CR,N,2019-2,Sharks_Rays,2018
+44,Rhinobatos nudidorsalis,Bareback Guitarfish,NT,DD,N,2019-3,Sharks_Rays,2018
+45,Rhynchobatus australiae,Bottlenose Wedgefish,VU,CR,N,2019-2,Sharks_Rays,2018
+46,Rhynchobatus cooki,Clown Wedgefish,VU,CR,N,2019-2,Sharks_Rays,2018
+47,Rhynchobatus djiddensis,Whitespotted Wedgefish,VU,CR,N,2019-2,Sharks_Rays,2018
+48,Rhynchobatus laevis,Smoothnose Wedgefish,VU,CR,N,2019-2,Sharks_Rays,2018
+49,Rhynchobatus luebberti,African Wedgefish,EN,CR,N,2019-2,Sharks_Rays,2018
+50,Rhynchobatus springeri,Broadnose Wedgefish,VU,CR,N,2019-2,Sharks_Rays,2018
+51,Sphyrna lewini,Scalloped Hammerhead,EN,CR,N,2019-3,Sharks_Rays,2018
+52,Sphyrna mokarran,Great Hammerhead,EN,CR,N,2019-3,Sharks_Rays,2018
+53,Squalus albifrons,Eastern Highfin Spurdog,DD,LC,N,2019-1,Sharks_Rays,2018
+54,Squalus chloroculus,Greeneye Spurdog,NT,EN,N,2019-1,Sharks_Rays,2018
+55,Squalus crassispinus,Fatspine Spurdog,DD,LC,N,2019-1,Sharks_Rays,2018
+56,Squalus lalannei,Seychelles Spurdog,DD,LC,N,2019-3,Sharks_Rays,2018
+57,Squalus nasutus,Western Longnose Spurdog,DD,NT,N,2019-1,Sharks_Rays,2018
+58,Squalus notocaudatus,Bartail Spurdog,DD,LC,N,2019-1,Sharks_Rays,2018
+59,Squatina africana,African Angelshark,DD,NT,N,2019-1,Sharks_Rays,2018
+60,Squatina argentina,Argentine Angelshark,EN,CR,N,2019-1,Sharks_Rays,2018
+61,Squatina dumeril,Atlantic Angelshark,DD,LC,N,2019-1,Sharks_Rays,2018
+62,Squatina occulta,Hidden Angelshark,EN,CR,N,2019-1,Sharks_Rays,2018
+63,Trygonoptera galba,Yellow Shovelnose Stingaree,DD,LC,N,2019-1,Sharks_Rays,2018
+64,Trygonoptera imitata,Eastern Shovelnose Stingaree,NT,LC,N,2019-1,Sharks_Rays,2018
+65,Trygonoptera testacea,Common Stingaree,LC,NT,N,2019-1,Sharks_Rays,2018
+0,Acheilognathus longipinnis,Deepbodied Bitterling,VU,EN,N,2019-2,Bony_Fishes,2018
+1,Acheilognathus melanogaster,Genuine Bitterling,LC,VU,N,2019-2,Bony_Fishes,2018
+2,Acrochordonichthys chamaeleon,,VU,DD,N,2019-2,Bony_Fishes,2018
+3,Adrianichthys kruyti,Duck-billed Buntingi,CR,CR(PE),N,2019-2,Bony_Fishes,2018
+4,Ambassis agassizii,Agassiz's Perchlet,DD,LC,N,2019-3,Bony_Fishes,2018
+5,Ameca splendens,Butterfly Splitfin,EW,CR,N,2019-2,Bony_Fishes,2018
+6,Anabas testudineus,Climbing Perch,DD,LC,N,2019-3,Bony_Fishes,2018
+7,Anguilla celebesensis,Celebes Longfin Eel,NT,DD,N,2019-3,Bony_Fishes,2018
+8,Anguilla luzonensis,Philippine Mottled Eel,NT,VU,N,2019-3,Bony_Fishes,2018
+9,Anguilla mossambica,African Longfin Eel,LC,NT,N,2019-3,Bony_Fishes,2018
+10,Atherinella crystallina,Blackfin Silverside,NT,LC,N,2019-2,Bony_Fishes,2018
+11,Barbucca diabolica,,DD,LC,N,2019-2,Bony_Fishes,2018
+12,Belontia signata,Combtail,LR/cd,VU,N,2019-3,Bony_Fishes,2018
+13,Betta burdigala,,VU,CR,N,2019-2,Bony_Fishes,2018
+14,Betta chini,,VU,EN,N,2019-2,Bony_Fishes,2018
+15,Betta chloropharynx,,VU,CR,N,2019-2,Bony_Fishes,2018
+16,Betta hipposideros,,VU,EN,N,2019-2,Bony_Fishes,2018
+17,Betta persephone,,CR,EN,N,2019-2,Bony_Fishes,2018
+18,Betta picta,Spotted Betta,LC,NT,N,2019-2,Bony_Fishes,2018
+19,Betta pinguis,,VU,CR,N,2019-2,Bony_Fishes,2018
+20,Betta spilotogena,,CR,EN,N,2019-2,Bony_Fishes,2018
+21,Betta tomi,,VU,EN,N,2019-2,Bony_Fishes,2018
+22,Bidyanus bidyanus,Silver Perch,VU,NT,G,2019-3,Bony_Fishes,2018
+23,Bostrychus zonatus,Sunset Gudgeon,DD,LC,N,2019-3,Bony_Fishes,2018
+24,Brachygobius sabanus,Sabanus Bumblebee Goby,DD,LC,N,2019-2,Bony_Fishes,2018
+25,Brachygobius xanthomelas,,LC,DD,N,2019-2,Bony_Fishes,2018
+26,Bryconops imitator,,LC,NT,G,2019-3,Bony_Fishes,2018
+27,Cairnsichthys rhombosomoides,Cairns Rainbowfish,VU,EN,N,2019-3,Bony_Fishes,2018
+28,Catostomus bernardini,Yaqui Sucker,DD,LC,N,2019-2,Bony_Fishes,2018
+29,Catostomus cahita,Matalote Cahita,VU,LC,N,2019-2,Bony_Fishes,2018
+30,Centropomus poeyi,Mexican Snook,DD,LC,N,2019-2,Bony_Fishes,2018
+31,Characodon audax,Bold Characodon,VU,EN,G,2019-2,Bony_Fishes,2018
+32,Characodon lateralis,Rainbow Goodeid,EN,CR,G,2019-2,Bony_Fishes,2018
+33,Chirostoma arge,Largetooth Silverside,VU,DD,N,2019-2,Bony_Fishes,2018
+34,Chirostoma bartoni,Alberca Silverside,VU,CR,N,2019-2,Bony_Fishes,2018
+35,Chlamydogobius gloveri,Dalhousie Goby,VU,CR,G,2019-3,Bony_Fishes,2018
+36,Chlamydogobius micropterus,Elizabeth Springs Goby,CR,VU,N,2019-3,Bony_Fishes,2018
+37,Cinetodus froggatti,Smallmouthed Salmon Catfish,DD,LC,N,2019-3,Bony_Fishes,2018
+38,Craterocephalus amniculus,Darling River Hardyhead,VU,LC,N,2019-3,Bony_Fishes,2018
+39,Craterocephalus dalhousiensis,Dalhousie Hardyhead,VU,CR,G,2019-3,Bony_Fishes,2018
+40,Craterocephalus fluviatilis,Murray Hardyhead,EN,CR,G,2019-3,Bony_Fishes,2018
+41,Craterocephalus lentiginosus,Freckled Hardyhead,LR/nt,LC,N,2019-3,Bony_Fishes,2018
+42,Craterocephalus marianae,Mariana's Hardyhead,DD,LC,N,2019-3,Bony_Fishes,2018
+43,Crossocheilus nigriloba,,DD,LC,N,2019-3,Bony_Fishes,2018
+44,Cualac tessellatus,Checkered Pupfish,EN,VU,N,2019-2,Bony_Fishes,2018
+45,Cyprinella alvarezdelvillari,,CR,VU,N,2019-2,Bony_Fishes,2018
+46,Cyprinella formosa,Beautiful Shiner,VU,LC,N,2019-2,Bony_Fishes,2018
+47,Cyprinella panarcys,Conchos Shiner,EN,NT,N,2019-2,Bony_Fishes,2018
+48,Cyprinella proserpina,Proserpine Shiner,VU,LC,N,2019-2,Bony_Fishes,2018
+49,Cyprinodon atrorus,Bolson Pupfish,LR/lc,EN,N,2019-2,Bony_Fishes,2018
+50,Cyprinodon beltrani,Blackfin Pupfish,EN,VU,N,2019-2,Bony_Fishes,2018
+51,Cyprinodon bifasciatus,Cuatro Cienegas Pupfish,LR/lc,EN,N,2019-2,Bony_Fishes,2018
+52,Cyprinodon eximius,Conchos Pupfish,NT,LC,N,2019-2,Bony_Fishes,2018
+53,Cyprinodon labiosus,Thicklip Pupfish,CR,VU,N,2019-2,Bony_Fishes,2018
+54,Cyprinodon latifasciatus,Parras Pupfish,EX,CR,N,2019-2,Bony_Fishes,2018
+55,Cyprinodon macrolepis,Largescale Pupfish,EN,NT,N,2019-2,Bony_Fishes,2018
+56,Cyprinodon maya,Maya Pupfish,EN,VU,N,2019-2,Bony_Fishes,2018
+57,Cyprinodon meeki,Mezquital Pupfish,CR,EN,N,2019-2,Bony_Fishes,2018
+58,Cyprinodon simus,Boxer Pupfish,EN,NT,N,2019-2,Bony_Fishes,2018
+59,Cyprinodon verecundus,Largefin Pupfish,CR,VU,N,2019-2,Bony_Fishes,2018
+60,Cyprinodon veronicae,Charco Palma Pupfish,CR,EW,G,2019-2,Bony_Fishes,2018
+61,Dionda argentosa,Manantial Roundnose Minnow,NT,EN,N,2019-2,Bony_Fishes,2018
+62,Discherodontus halei,,DD,EN,N,2019-3,Bony_Fishes,2018
+63,Dorosoma smithi,Pacific Gizzard Shad,DD,LC,N,2019-2,Bony_Fishes,2018
+64,Encheloclarias curtisoma,,CR,EN,N,2019-2,Bony_Fishes,2018
+65,Encheloclarias prolatus,,VU,EN,N,2019-3,Bony_Fishes,2018
+66,Enteromius choloensis,Silver Barb,VU,DD,N,2019-3,Bony_Fishes,2018
+67,Epalzeorhynchos kalopterus,Flying Fox Carp,DD,LC,N,2019-2,Bony_Fishes,2018
+68,Etheostoma australe,Conchos Darter,VU,EN,N,2019-2,Bony_Fishes,2018
+69,Etheostoma pottsii,Mexican Darter,VU,LC,N,2019-2,Bony_Fishes,2018
+70,Fundulus lima,Killifish,LR/lc,EN,N,2019-2,Bony_Fishes,2018
+71,Gadopsis bispinosus,Two-spined Blackfish,LC,NT,N,2019-3,Bony_Fishes,2018
+72,Galaxias fontanus,Swan Galaxias,CR,EN,N,2019-3,Bony_Fishes,2018
+73,Galaxias fuscus,Barred Galaxias,CR,EN,N,2019-3,Bony_Fishes,2018
+74,Galaxias johnstoni,Clarence Galaxias,CR,EN,N,2019-3,Bony_Fishes,2018
+75,Galaxias parvus,Swamp Galaxias,DD,VU,N,2019-3,Bony_Fishes,2018
+76,Galaxias pedderensis,Pedder Galaxias,CR,EN,G,2019-3,Bony_Fishes,2018
+77,Galaxias rostratus,Flathead Galaxias,VU,CR,G,2019-3,Bony_Fishes,2018
+78,Galaxias tanycephalus,Saddled Galaxias,VU,CR,G,2019-3,Bony_Fishes,2018
+79,Galaxiella munda,Western Mud Minnow,LR/nt,EN,G,2019-3,Bony_Fishes,2018
+80,Galaxiella nigrostriata,Black-stripe Minnow,LR/nt,EN,G,2019-3,Bony_Fishes,2018
+81,Galaxiella pusilla,Dwarf Galaxias,VU,EN,N,2019-3,Bony_Fishes,2018
+82,Gambusia alvarezi,Yellowfin Gambusia,VU,DD,N,2019-2,Bony_Fishes,2018
+83,Gambusia hurtadoi,Crescent Gambusia,VU,CR,N,2019-2,Bony_Fishes,2018
+84,Gambusia longispinis,Cuatrocienegas Gambusia,VU,EN,N,2019-2,Bony_Fishes,2018
+85,Gambusia speciosa,Tex-Mex Gambusia,DD,LC,N,2019-2,Bony_Fishes,2018
+86,Garra phillipsi,Philipps' Garra,DD,CR,N,2019-3,Bony_Fishes,2018
+87,Gila modesta,Salinas Chub,CR,EN,N,2019-2,Bony_Fishes,2018
+88,Gila robusta,Roundtail Chub,NT,VU,N,2019-2,Bony_Fishes,2018
+89,Girardinichthys multiradiatus,Darkedged Splitfin,VU,EN,G,2019-2,Bony_Fishes,2018
+90,Girardinichthys viviparus,Chapultepec Splitfin,CR,EN,N,2019-2,Bony_Fishes,2018
+91,Glossogobius celebius,Celebes Goby,DD,LC,N,2019-2,Bony_Fishes,2018
+92,Glossogobius flavipinnis,,VU,NT,N,2019-2,Bony_Fishes,2018
+93,Glossogobius intermedius,,VU,NT,N,2019-2,Bony_Fishes,2018
+94,Glossogobius matanensis,,VU,NT,N,2019-2,Bony_Fishes,2018
+95,Glyptothorax fuscus,,DD,LC,N,2019-3,Bony_Fishes,2018
+96,Gymnocharacinus bergii,Naked Characin,EN,CR,G,2019-2,Bony_Fishes,2018
+97,Hannia greenwayi,Greenway's Grunter,DD,LC,N,2019-3,Bony_Fishes,2018
+98,Hephaestus epirrhinos,Longnose Sooty Grunter,LR/nt,VU,N,2019-3,Bony_Fishes,2018
+99,Herichthys bartoni,Barton's Cichlid,VU,EN,N,2019-2,Bony_Fishes,2018
+100,Herichthys minckleyi,Minkley's Cichlid,VU,EN,N,2019-2,Bony_Fishes,2018
+101,Herichthys pantostictus,Chairel Cichlid,VU,LC,N,2019-2,Bony_Fishes,2018
+102,Herichthys steindachneri,Mojarra,NT,EN,N,2019-2,Bony_Fishes,2018
+103,Homaloptera parclitella,,DD,LC,N,2019-2,Bony_Fishes,2018
+104,Horadandia atukorali,,LC,VU,N,2019-3,Bony_Fishes,2018
+105,Hypseleotris aurea,Golden Gudgeon,LR/lc,EN,G,2019-3,Bony_Fishes,2018
+106,Hypseleotris ejuncida,Slender Carp Gudgeon,LR/nt,CR,G,2019-3,Bony_Fishes,2018
+107,Hypseleotris kimberleyensis,Barnett River Gudgeon,LR/nt,EN,G,2019-3,Bony_Fishes,2018
+108,Ilyodon whitei,Balsas Splitfin,CR,LC,N,2019-2,Bony_Fishes,2018
+109,Kimberleyeleotris hutchinsi,Mitchell Gudgeon,LR/nt,VU,G,2019-3,Bony_Fishes,2018
+110,Kimberleyeleotris notata,Drysdale Gudgeon,LR/nt,CR,G,2019-3,Bony_Fishes,2018
+111,Labeo lankae,,CR,EN,N,2019-3,Bony_Fishes,2018
+112,Leiopotherapon aheneus,Fortesque Grunter,LR/nt,EN,G,2019-3,Bony_Fishes,2018
+113,Lentipes whittenorum,,VU,DD,N,2019-2,Bony_Fishes,2018
+114,Lepidogalaxias salamandroides,Salmanderfish,LR/nt,EN,G,2019-3,Bony_Fishes,2018
+115,Lucania interioris,Cuatrocienegas Killifish,CR,EN,N,2019-3,Bony_Fishes,2018
+116,Luciogobius albus,Cave Goby,DD,CR,N,2019-2,Bony_Fishes,2018
+117,Luciosoma setigerum,,DD,LC,N,2019-2,Bony_Fishes,2018
+118,Maccullochella macquariensis,Trout Cod,EN,VU,G,2019-3,Bony_Fishes,2018
+119,Maccullochella peelii,Murray River Cod,CR,LC,N,2019-3,Bony_Fishes,2018
+120,Macquaria australasica,Macquarie Perch,DD,EN,N,2019-3,Bony_Fishes,2018
+121,Macrochirichthys macrochirus,Long Pectoral-fin Minnow,NT,LC,N,2019-2,Bony_Fishes,2018
+122,Malpulutta kretseri,Ornate Paradisefish,LR/cd,EN,N,2019-3,Bony_Fishes,2018
+123,Megupsilon aporus,Catarina Pupfish,EW,EX,G,2019-2,Bony_Fishes,2018
+124,Melanotaenia eachamensis,Lake Eacham Rainbowfish,VU,EN,N,2019-3,Bony_Fishes,2018
+125,Melanotaenia exquisita,Exquisite Rainbowfish,DD,LC,N,2019-3,Bony_Fishes,2018
+126,Melanotaenia gracilis,Slender Rainbowfish,LR/nt,EN,N,2019-3,Bony_Fishes,2018
+127,Melanotaenia pygmaea,Pygmy Rainbowfish,LR/nt,VU,G,2019-3,Bony_Fishes,2018
+128,Menidia colei,Golden Silverside,EN,VU,N,2019-2,Bony_Fishes,2018
+129,Millerichthys robustus,Mexican Rivulus,DD,EN,N,2019-2,Bony_Fishes,2018
+130,Milyeringa veritas,Blind Gudgeon,DD,EN,N,2019-3,Bony_Fishes,2018
+131,Mugilogobius adeia,,VU,EN,N,2019-2,Bony_Fishes,2018
+132,Mugilogobius amadi,Poso Bungu,CR,CR(PE),N,2019-2,Bony_Fishes,2018
+133,Mugilogobius latifrons,,VU,EN,N,2019-2,Bony_Fishes,2018
+134,Mugilogobius sarasinorum,Sarasin's Goby,VU,EN,N,2019-2,Bony_Fishes,2018
+135,Nannatherina balstoni,Balston's Pygmy Perch,DD,EN,G,2019-3,Bony_Fishes,2018
+136,Nannoperca obscura,Yarra Pygmy Perch,VU,EN,G,2019-3,Bony_Fishes,2018
+137,Nannoperca variegata,Variagated Pygmy Perch,VU,EN,G,2019-3,Bony_Fishes,2018
+138,Neosalanx reganius,Ariake Dwarf Icefish,VU,EN,N,2019-2,Bony_Fishes,2018
+139,Nomorhamphus celebensis,Poso Halfbeak,DD,EN,N,2019-2,Bony_Fishes,2018
+140,Nomorhamphus towoetii,,EN,VU,N,2019-2,Bony_Fishes,2018
+141,Nothobranchius albimarginatus,,VU,EN,G,2019-3,Bony_Fishes,2018
+142,Nothobranchius annectens,,VU,NT,N,2019-3,Bony_Fishes,2018
+143,Nothobranchius brieni,,LC,VU,N,2019-3,Bony_Fishes,2018
+144,Nothobranchius fasciatus,,DD,VU,N,2019-3,Bony_Fishes,2018
+145,Nothobranchius fuscotaeniatus,,DD,CR,N,2019-3,Bony_Fishes,2018
+146,Nothobranchius guentheri,Redtail Notho,LC,EN,G,2019-3,Bony_Fishes,2018
+147,Nothobranchius hassoni,,DD,VU,N,2019-3,Bony_Fishes,2018
+148,Nothobranchius interruptus,Kikambala Nothobranch,VU,EN,N,2019-3,Bony_Fishes,2018
+149,Nothobranchius korthausae,,VU,EN,N,2019-3,Bony_Fishes,2018
+150,Nothobranchius lourensi,,VU,NT,N,2019-3,Bony_Fishes,2018
+151,Nothobranchius luekei,,VU,EN,N,2019-3,Bony_Fishes,2018
+152,Nothobranchius malaissei,,DD,VU,N,2019-3,Bony_Fishes,2018
+153,Nothobranchius microlepis,Small Scaled Nothobranch,LC,VU,N,2019-3,Bony_Fishes,2018
+154,Nothobranchius ocellatus,,DD,NT,N,2019-3,Bony_Fishes,2018
+155,Nothobranchius palmqvisti,,LC,VU,N,2019-3,Bony_Fishes,2018
+156,Nothobranchius rosenstocki,,EN,VU,N,2019-3,Bony_Fishes,2018
+157,Nothobranchius rubripinnis,,VU,EN,N,2019-3,Bony_Fishes,2018
+158,Nothobranchius rubroreticulatus,,DD,NT,N,2019-3,Bony_Fishes,2018
+159,Nothobranchius serengetiensis,,NT,VU,N,2019-3,Bony_Fishes,2018
+160,Nothobranchius steinforti,,VU,CR,N,2019-3,Bony_Fishes,2018
+161,Nothobranchius virgatus,,DD,LC,N,2019-3,Bony_Fishes,2018
+162,Notropis amecae,Ameca Shiner,EX,EW,N,2019-2,Bony_Fishes,2018
+163,Notropis imeldae,Sardinita de Rio Verde,VU,DD,N,2019-2,Bony_Fishes,2018
+164,Notropis moralesi,Papaloapan Chub,CR,DD,N,2019-2,Bony_Fishes,2018
+165,Oligolepis acutipennis,Paintedfin Goby,DD,LC,N,2019-3,Bony_Fishes,2018
+166,Ompok fumidus,,VU,LC,N,2019-2,Bony_Fishes,2018
+167,Oncorhynchus chrysogaster,Mexican Golden Trout,VU,NT,N,2019-3,Bony_Fishes,2018
+168,Oneirodes luetkeni,L�tken's Dreamer,DD,LC,N,2019-3,Bony_Fishes,2018
+169,Ophisternon candidum,Blind Cave Eel,DD,EN,N,2019-3,Bony_Fishes,2018
+170,Oreochromis mossambicus,Mozambique Tilapia,NT,VU,G,2019-3,Bony_Fishes,2018
+171,Oryzias celebensis,Celebes Ricefish,VU,LC,N,2019-2,Bony_Fishes,2018
+172,Oryzias marmoratus,Marmorated Ricefish,VU,NT,N,2019-2,Bony_Fishes,2018
+173,Oryzias matanensis,Matano Ricefish,VU,NT,N,2019-2,Bony_Fishes,2018
+174,Oryzias nigrimas,Black Buntingi,VU,NT,N,2019-2,Bony_Fishes,2018
+175,Oryzias orthognathus,Sharp-jawed Buntingi,EN,NT,N,2019-2,Bony_Fishes,2018
+176,Oryzias profundicola,Yellow-finned Ricefish,VU,NT,N,2019-2,Bony_Fishes,2018
+177,Pangio filinaris,,DD,LC,N,2019-2,Bony_Fishes,2018
+178,Paragalaxias mesotes,Arthurs Paragalaxias,VU,EN,N,2019-3,Bony_Fishes,2018
+179,Parakysis longirostris,Singapore Little Warty Catfish,LC,NT,G,2019-3,Bony_Fishes,2018
+180,Paratherina cyanea,,VU,NT,N,2019-2,Bony_Fishes,2018
+181,Paratherina labiosa,,VU,CR,G,2019-2,Bony_Fishes,2018
+182,Paratherina striata,,VU,NT,N,2019-2,Bony_Fishes,2018
+183,Paratherina wolterecki,,VU,NT,N,2019-2,Bony_Fishes,2018
+184,Pethia nigrofasciata,Black Ruby Barb,LR/cd,VU,N,2019-3,Bony_Fishes,2018
+185,Phalacronotus micronemus,,DD,LC,N,2019-3,Bony_Fishes,2018
+186,Physiculus karrerae,Deepwater Cod,DD,LC,N,2019-2,Bony_Fishes,2018
+187,Poblana ferdebueni,Chignahuapan Silverside,DD,CR,N,2019-2,Bony_Fishes,2018
+188,Poblana letholepis,La Preciosa Silverside,EN,CR,N,2019-2,Bony_Fishes,2018
+189,Poblana squamata,Quechulac Silverside,EN,CR,N,2019-2,Bony_Fishes,2018
+190,Poecilia latipunctata,Broadspotted Molly,CR,DD,N,2019-2,Bony_Fishes,2018
+191,Poecilia sulphuraria,Sulphur Molly,CR,EN,N,2019-2,Bony_Fishes,2018
+192,Poeciliopsis fasciata,San Jeronimo Livebearer,NT,LC,N,2019-2,Bony_Fishes,2018
+193,Poeciliopsis monacha,Headwater Livebearer,DD,EN,N,2019-2,Bony_Fishes,2018
+194,Poeciliopsis prolifica,Blackstripe Livebearer,NT,LC,N,2019-2,Bony_Fishes,2018
+195,Poeciliopsis sonoriensis,Yaqui Topminnow,VU,DD,N,2019-2,Bony_Fishes,2018
+196,Potamalosa richmondia,Australian Freshwater Herring,NT,LC,N,2019-3,Bony_Fishes,2018
+197,Priapella bonita,Graceful Priapella,EX,DD,N,2019-2,Bony_Fishes,2018
+198,Prietella phreatophila,Mexican Blindcat,EN,VU,N,2019-2,Bony_Fishes,2018
+199,Probarbus jullieni,Jullien's Golden Carp,EN,CR,G,2019-2,Bony_Fishes,2018
+200,Protomyzon borneensis,,DD,NT,N,2019-2,Bony_Fishes,2018
+201,Prototroctes maraena,Australian Grayling,NT,VU,G,2019-3,Bony_Fishes,2018
+202,Pseudomystus myersi,,VU,EN,N,2019-3,Bony_Fishes,2018
+203,Puntioplites bulu, Bulu Barb,DD,LC,N,2019-2,Bony_Fishes,2018
+204,Puntius titteya,Cherry Barb,LR/cd,VU,N,2019-3,Bony_Fishes,2018
+205,Rasbora ennealepis,,VU,NT,N,2019-2,Bony_Fishes,2018
+206,Rasbora tawarensis,,VU,CR,N,2019-2,Bony_Fishes,2018
+207,Rasbora wilpita,,EN,VU,N,2019-3,Bony_Fishes,2018
+208,Rhamdia reddelli,Blindwhiskered Catfish,VU,CR,N,2019-2,Bony_Fishes,2018
+209,Rhodeus atremius,Kyushu Bitterling,VU,NT,N,2019-2,Bony_Fishes,2018
+210,Salmo platycephalus,Flathead Trout,CR,EN,N,2019-1,Bony_Fishes,2018
+211,Schismatogobius deraniyagalai,Redneck Goby,DD,LC,N,2019-3,Bony_Fishes,2018
+212,Scortum hillii,Leathery Grunter,DD,NT,N,2019-3,Bony_Fishes,2018
+213,Scortum parviceps,Small-headed Grunter,DD,NT,N,2019-3,Bony_Fishes,2018
+214,Sicyopterus cynocephalus,,DD,LC,N,2019-2,Bony_Fishes,2018
+215,Sicyopterus longifilis,,DD,LC,N,2019-2,Bony_Fishes,2018
+216,Sicyopus discordipinnis,,DD,LC,N,2019-3,Bony_Fishes,2018
+217,Sicyopus jonklaasi,Lipstick Goby,DD,EN,N,2019-3,Bony_Fishes,2018
+218,Smilosicyopus leprurus,,DD,LC,N,2019-3,Bony_Fishes,2018
+219,Sphaerichthys vaillanti,,VU,EN,N,2019-2,Bony_Fishes,2018
+220,Stenogobius gymnopomus,,LC,DD,N,2019-2,Bony_Fishes,2018
+221,Stiphodon pelewensis,,DD,LC,N,2019-2,Bony_Fishes,2018
+222,Stiphodon semoni,,DD,LC,N,2019-2,Bony_Fishes,2018
+223,Stiphodon surrufus,,VU,LC,N,2019-2,Bony_Fishes,2018
+224,Syncomistes kimberleyensis,Kimberley Grunter,LR/nt,LC,N,2019-3,Bony_Fishes,2018
+225,Syncomistes rastellus,Drysdale Grunter,LR/nt,EN,N,2019-3,Bony_Fishes,2018
+226,Systomus asoka,Asoka Barb,EN,CR,N,2019-3,Bony_Fishes,2018
+227,Systomus pleurotaenia,Side Striped Barb,LR/cd,VU,N,2019-3,Bony_Fishes,2018
+228,Tampichthys dichromus,Bicolor Minnow,VU,CR,N,2019-2,Bony_Fishes,2018
+229,Tampichthys mandibularis,Flatjaw Minnow,CR,EN,N,2019-2,Bony_Fishes,2018
+230,Tanakia tanago,Tokyo Bitterling,VU,EN,N,2019-2,Bony_Fishes,2018
+231,Telmatherina abendanoni,,VU,NT,N,2019-2,Bony_Fishes,2018
+232,Telmatherina antoniae,,VU,NT,N,2019-2,Bony_Fishes,2018
+233,Telmatherina bonti,,LR/lc,EN,N,2019-2,Bony_Fishes,2018
+234,Telmatherina celebensis,,VU,NT,N,2019-2,Bony_Fishes,2018
+235,Telmatherina obscura,,VU,NT,N,2019-2,Bony_Fishes,2018
+236,Telmatherina opudi,,VU,NT,N,2019-2,Bony_Fishes,2018
+237,Telmatherina prognatha,,VU,NT,N,2019-2,Bony_Fishes,2018
+238,Telmatherina sarasinorum,,VU,NT,N,2019-2,Bony_Fishes,2018
+239,Telmatherina wahjui,,VU,EN,N,2019-2,Bony_Fishes,2018
+240,Tlaloc candalarius,Headwater Killifish,NT,LC,N,2019-2,Bony_Fishes,2018
+241,Tominanga aurea,,VU,NT,N,2019-2,Bony_Fishes,2018
+242,Tominanga sanguicauda,,VU,NT,N,2019-2,Bony_Fishes,2018
+243,Typhlias pearsei,Mexican Blind Brotula,VU,NT,N,2019-2,Bony_Fishes,2018
+244,Vieja hartwegi,Tailbar Cichlid,VU,EN,N,2019-2,Bony_Fishes,2018
+245,Wallago attu,,NT,VU,N,2019-3,Bony_Fishes,2018
+246,Xenopoecilus oophorus,Egg-carrying Buntingi,EN,LC,N,2019-2,Bony_Fishes,2018
+247,Xenopoecilus poptae,Popta's Buntingi,CR,EN,N,2019-2,Bony_Fishes,2018
+248,Xenopoecilus sarasinorum,,EN,CR,N,2019-2,Bony_Fishes,2018
+249,Xiphophorus couchianus,Monterrey Platyfish,CR,EW,G,2019-2,Bony_Fishes,2018
+250,Xiphophorus meyeri,Marbled Swordtail,EN,EW,G,2019-2,Bony_Fishes,2018
+251,Zoogoneticus tequila,Tequila Splitfin,CR,EN,N,2019-2,Bony_Fishes,2018
+252,"LAMPREYS, etc.",,,,,,Bony_Fishes,2018
+253,Tetrapleurodon spadiceus,Mexican Lamprey,CR,CR(PE),N,2019-2,Bony_Fishes,2018

@@ -1,0 +1,337 @@
+,scientific_name,common_name,before,after,reason_for_change,Category,year
+1,Alouatta caraya,Black-and-gold Howler Monkey,LC,NT,G,Mammals,2019
+2,Alouatta guariba,Brown Howler Monkey,LC,VU,G,Mammals,2019
+3,Alouatta palliata,Mantled Howler Monkey,LC,VU,N,Mammals,2019
+4,Alouatta puruensis,Pur�s Red Howler Monkey,LC,VU,G,Mammals,2019
+7,Ateles fusciceps,Brown-headed Spider Monkey,CR,EN,N,Mammals,2019
+11,Berardius arnuxii,Arnoux's Beaked Whale,DD,LC,N,Mammals,2019
+14,Cacajao ayresi,Ayres Black Uakari,VU,LC,N,Mammals,2019
+15,Callithrix flaviceps,Buffy-headed Marmoset,EN,CR,G,Mammals,2019
+19,Cebuella niveiventris,Eastern Pygmy Marmoset,LC,VU,G,Mammals,2019
+20,Cebuella pygmaea,Western Pygmy Marmoset,LC,VU,N,Mammals,2019
+21,Cebus cesarae,R�o Cesar White-fronted Capuchin,DD,EN,N,Mammals,2019
+34,Chiropotes albinasus,White-nosed Saki,EN,VU,N,Mammals,2019
+35,Chiropotes satanas,Black Bearded Saki,CR,EN,N,Mammals,2019
+36,Chiropotes utahickae,Uta Hick's Bearded Saki,EN,VU,N,Mammals,2019
+61,Kogia breviceps,Pygmy Sperm Whale,DD,LC,N,Mammals,2019
+62,Kogia sima,Dwarf Sperm Whale,DD,LC,N,Mammals,2019
+63,Leontocebus illigeri,Illiger's Saddle-back Tamarin,LC,NT,G,Mammals,2019
+75,Lycalopex vetulus,Hoary Fox,LC,NT,G,Mammals,2019
+81,Mesoplodon bidens,Sowerby's Beaked Whale,DD,LC,N,Mammals,2019
+82,Mesoplodon densirostris,Blainville's Beaked Whale,DD,LC,N,Mammals,2019
+83,Mesoplodon europaeus,Gervais' Beaked Whale,DD,LC,N,Mammals,2019
+84,Mesoplodon grayi,Gray's Beaked Whale,DD,LC,N,Mammals,2019
+85,Mesoplodon layardii,Strap-toothed Whale,DD,LC,N,Mammals,2019
+86,Mesoplodon mirus,True's Beaked Whale,DD,LC,N,Mammals,2019
+88,Mesoplodon peruvianus,Pygmy Beaked Whale,DD,LC,N,Mammals,2019
+90,Mico humeralifer,Black And White Tassel-ear Marmoset,DD,NT,N,Mammals,2019
+91,Mico melanurus,Black-tailed Marmoset,LC,NT,G,Mammals,2019
+126,Pithecia milleri,Miller's Saki,DD,VU,N,Mammals,2019
+128,Plecturocebus brunneus,Brown Titi Monkey,LC,VU,G,Mammals,2019
+154,Saguinus leucopus,Silvery-brown Tamarin,EN,VU,N,Mammals,2019
+155,Sapajus flavius,Blonde Capuchin,CR,EN,N,Mammals,2019
+161,Sotalia fluviatilis,Tucuxi,DD,EN,N,Mammals,2019
+172,Thomasomys pyrrhonotus,Thomas's Oldfield Mouse,VU,DD,N,Mammals,2019
+0,Accipiter collaris,Semi-collared Hawk,NT,LC,N,Birds,2019
+6,Aglaeactis aliciae,Purple-backed Sunbeam,EN,VU,N,Birds,2019
+13,Amazona diadema,Diademed Amazon,EN,LC,N,Birds,2019
+14,Amazona lilacina,Lilacine Amazon,EN,CR,N,Birds,2019
+16,Anumara forbesi,Forbes's Blackbird,EN,VU,N,Birds,2019
+19,Ara ambiguus,Great Green Macaw,EN,CR,N,Birds,2019
+21,Atlapetes flaviceps,Yellow-headed Brush-finch,EN,NT,N,Birds,2019
+22,Bangsia aureocincta,Gold-ringed Tanager,EN,VU,N,Birds,2019
+24,Cacicus koepckeae,Selva Cacique,EN,NT,N,Birds,2019
+25,Campylopterus phainopeplus,Santa Marta Sabrewing,EN,CR,N,Birds,2019
+26,Capito quinticolor,Five-colored Barbet,VU,NT,N,Birds,2019
+27,Capito squamatus,Orange-fronted Barbet,NT,LC,N,Birds,2019
+29,Caryothraustes erythromelas,Red-and-black Grosbeak,NT,LC,N,Birds,2019
+30,Cercomacra ferdinandi,Bananal Antbird,VU,NT,N,Birds,2019
+31,Chaetocercus berlepschi,Esmeraldas Woodstar,EN,VU,N,Birds,2019
+36,Clibanornis erythrocephalus,Henna-hooded Foliage-gleaner,VU,NT,N,Birds,2019
+37,Clibanornis rufipectus,Santa Marta Foliage-gleaner,NT,VU,N,Birds,2019
+38,Coeligena consita,Perija Starfrontlet,VU,EN,N,Birds,2019
+39,Coeligena orina,Glittering Starfrontlet,CR,EN,N,Birds,2019
+40,Conirostrum tamarugense,Tamarugo Conebill,VU,LC,N,Birds,2019
+44,Cranioleuca marcapatae,Marcapata Spinetail,VU,LC,N,Birds,2019
+45,Cranioleuca weskei,Vilcabamba Spinetail,NT,LC,N,Birds,2019
+47,Cryptoleucopteryx plumbea,Plumbeous Hawk,VU,NT,N,Birds,2019
+48,Crypturellus atrocapillus,Black-capped Tinamou,NT,LC,N,Birds,2019
+49,Crypturellus duidae,Grey-legged Tinamou,NT,LC,N,Birds,2019
+51,Dysithamnus leucostictus,White-streaked Antvireo,VU,LC,N,Birds,2019
+53,Eriocnemis nigrivestis,Black-breasted Puffleg,CR,EN,N,Birds,2019
+55,Eubucco steerii,Blue-cowled Barbet,NT,LC,N,Birds,2019
+61,Grallaria carrikeri,Pale-billed Antpitta,NT,LC,N,Birds,2019
+63,Hylocichla mustelina,Wood Thrush,NT,LC,G,Birds,2019
+65,Jacamaralcyon tridactyla,Three-toed Jacamar,VU,NT,N,Birds,2019
+68,Leptosittaca branickii,Golden-plumed Parakeet,VU,LC,N,Birds,2019
+69,Leptotila conoveri,Tolima Dove,EN,NT,N,Birds,2019
+72,Malacoptila striata,Greater Crescent-chested Puffbird,NT,LC,N,Birds,2019
+77,Mimus melanotis,San Cristobal Mockingbird,EN,NT,N,Birds,2019
+78,Myrmoborus lophotes,White-lined Antbird,NT,LC,N,Birds,2019
+79,Nannopsittaca dachilleae,Amazonian Parrotlet,NT,LC,N,Birds,2019
+80,Nothocercus nigrocapillus,Hooded Tinamou,VU,LC,N,Birds,2019
+82,Ochthoeca piurae,Piura Chat-tyrant,NT,LC,N,Birds,2019
+84,Odontophorus hyperythrus,Chestnut Wood-quail,NT,LC,N,Birds,2019
+85,Ognorhynchus icterotis,Yellow-eared Parrot,EN,VU,G,Birds,2019
+87,Pelecanoides garnotii,Peruvian Diving-petrel,EN,NT,N,Birds,2019
+88,Phacellodomus dorsalis,Chestnut-backed Thornbird,VU,NT,N,Birds,2019
+90,Phylloscartes difficilis,Serra do Mar Tyrannulet,NT,LC,N,Birds,2019
+92,Piprites pileata,Black-capped Piprites,VU,NT,N,Birds,2019
+93,Podiceps taczanowskii,Junin Grebe,CR,EN,G,Birds,2019
+95,Poospiza goeringi,Slaty-backed Hemispingus,VU,NT,N,Birds,2019
+96,Procnias nudicollis,Bare-throated Bellbird,VU,NT,N,Birds,2019
+97,Progne murphyi,Peruvian Martin,VU,NT,N,Birds,2019
+98,Pseudosaltator rufiventris,Rufous-bellied Mountain-tanager,NT,LC,N,Birds,2019
+100,Pyrrhura rupicola,Black-capped Parakeet,NT,LC,N,Birds,2019
+105,Saltator cinctus,Masked Saltator,NT,LC,N,Birds,2019
+108,Snowornis subalaris,Grey-tailed Piha,NT,LC,N,Birds,2019
+110,Spheniscus magellanicus,Magellanic Penguin,NT,LC,N,Birds,2019
+113,Tangara phillipsi,Sira Tanager,NT,LC,N,Birds,2019
+116,Thamnophilus shumbae,Maranon Antshrike,DD,VU,N,Birds,2019
+119,Vultur gryphus,Andean Condor,NT,VU,N,Birds,2019
+120,Xenoglaux loweryi,Long-whiskered Owlet,EN,VU,N,Birds,2019
+121,Xenornis setifrons,Spiny-faced Antshrike,VU,NT,N,Birds,2019
+122,Zenaida galapagoensis,Galapagos Dove,LC,NT,G,Birds,2019
+11,Anolis ventrimaculatus,Speckled Anole,NT,LC,N,Reptiles,2019
+12,Apostolepis goiasensis,Goias Burrowing Snake,DD,LC,N,Reptiles,2019
+5,Agalychnis medinae,Rancho Grande Leaf Frog,DD,EN,N,Amphibians,2019
+6,Allobates bromelicola,Sapito Ni�era Bromelicola,DD,VU,N,Amphibians,2019
+7,Allobates caribe,Caribbean Nurse Frog,DD,CR,N,Amphibians,2019
+8,Allobates humilis,Sapito Ni�era Humilde,VU,EN,N,Amphibians,2019
+16,Ameerega boehmei,Boehmei's Poison Arrow Frog,LC,EN,G,Amphibians,2019
+17,Ameerega boliviana,Bolivian Poison-Arrow Frog,LC,NT,G,Amphibians,2019
+25,Anomaloglossus ayarzaguenai,Sapito Ni�era de Ayarzag�ena,DD,VU,N,Amphibians,2019
+27,Anomaloglossus guanayensis,Sapito Ni�era de Guanay,DD,NT,N,Amphibians,2019
+28,Anomaloglossus rufulus,Sira Poison Frog,DD,NT,N,Amphibians,2019
+29,Anomaloglossus shrevei,Sapito Ni�era de Shreve,DD,NT,N,Amphibians,2019
+34,Aromobates alboguttatus,White-dotted Rocket Frog,EN,CR(PE),N,Amphibians,2019
+35,Aromobates duranti,La Culata Rocket Frog,EN,CR,N,Amphibians,2019
+36,Aromobates haydeeae,Haydee's Rocket Frog,EN,CR(PE),N,Amphibians,2019
+37,Aromobates leopardalis,Mucubaj� Skunk Frog,CR,CR(PE),N,Amphibians,2019
+38,Aromobates molinarii,Molinari's Rocket Frog,EN,CR,N,Amphibians,2019
+39,Aromobates orostoma,Tachira Rocket Frog,EN,CR,N,Amphibians,2019
+40,Aromobates serranus,Sierra Rocket Frog,EN,CR(PE),N,Amphibians,2019
+44,Atelopus chrysocorallus,Red and Yellow Stubfoot Toad,CR(PE),CR,N,Amphibians,2019
+45,Atelopus muisca,La Arboleda Stubfoot Toad,EN,CR,N,Amphibians,2019
+47,Atelopus tricolor,Bolivian Stubfoot Toad,VU,CR,G,Amphibians,2019
+57,Boana albonigra,White-black Treefrog,NT,LC,N,Amphibians,2019
+60,Boana roraima,Hoogmoed's Treefrog,DD,LC,N,Amphibians,2019
+64,Bolitoglossa borburata,Carabobo Salamander,NT,VU,N,Amphibians,2019
+75,Bolitoglossa guaramacalensis,Guaramacal's Salamander,VU,EN,N,Amphibians,2019
+83,Bolitoglossa medemi,Finca Chibigui Salamander,VU,LC,N,Amphibians,2019
+87,Bolitoglossa orestes,M�rida Mountain Salamander,VU,EN,N,Amphibians,2019
+89,Bolitoglossa phalarosoma,Medellin Mushroomtongue Salamander,DD,NT,N,Amphibians,2019
+108,Celsiella vozmedianoi,Paria Glass-frog,DD,EN,N,Amphibians,2019
+109,Centrolene daidalea,Alban Cochran Frog,VU,LC,N,Amphibians,2019
+128,Cochranella duidaeana,Duida Cochran Frog,DD,VU,N,Amphibians,2019
+129,Cochranella mache,Mache Cochran Frog,EN,NT,N,Amphibians,2019
+132,Colostethus latinasus,Truando Rocket Frog,DD,CR,N,Amphibians,2019
+214,Dendropsophus yaracuyanus,Sierra de Aroa Treefrog,DD,EN,N,Amphibians,2019
+222,Dischidodactylus colonnelloi,Tepui Marahuaca Frog,DD,NT,N,Amphibians,2019
+223,Dischidodactylus duidensis,Mount Duida Frog,DD,NT,N,Amphibians,2019
+232,Ecnomiohyla miliaria,Cope's Brown Treefrog,VU,LC,N,Amphibians,2019
+255,Flectonotus fitzgeraldi,Fitzgerald's Marsupial Frog,EN,LC,N,Amphibians,2019
+256,Gastrotheca ovifera,Common Marsupial Frog,EN,VU,N,Amphibians,2019
+257,Gastrotheca splendens,Schmidt's Marsupial Frog,EN,DD,N,Amphibians,2019
+258,Gastrotheca walkeri,Walker's Marsupial Frog,DD,VU,N,Amphibians,2019
+262,Hyalinobatrachium aureoguttatum,Atrato Glass Frog,NT,LC,N,Amphibians,2019
+263,Hyalinobatrachium duranti,Rivero's Glass Frog,DD,EN,N,Amphibians,2019
+264,Hyalinobatrachium fragile,Fragile Glass Frog,VU,NT,N,Amphibians,2019
+266,Hyalinobatrachium pallidum,Guacharaquita Glass Frog,EN,NT,N,Amphibians,2019
+267,Hyalinobatrachium tatayoi,Tatayo's Glass Frog,LC,NT,N,Amphibians,2019
+279,Hyloscirtus colymba,La Loma Treefrog,NT,EN,G,Amphibians,2019
+280,Hyloscirtus jahni,Jahn's Stream Frog,NT,VU,N,Amphibians,2019
+358,Mannophryne caquetio,Churuguara Collared Frog,CR,EN,N,Amphibians,2019
+359,Mannophryne lamarcai,Socopo Collared Frog,CR,EN,N,Amphibians,2019
+360,Mannophryne leonardoi,Turimiquire Collared Frog,EN,NT,N,Amphibians,2019
+361,Mannophryne neblina,Sapito Acollarado de Rancho Grande,CR(PE),CR,N,Amphibians,2019
+362,Mannophryne oblitterata,Guatopo Giant Collared Frog,DD,NT,N,Amphibians,2019
+363,Mannophryne speeri,Speer's Collared Frog,DD,CR,N,Amphibians,2019
+377,Metaphryniscus sosai,Sapito Rugoso Del Marahuaka,VU,NT,N,Amphibians,2019
+391,Myersiohyla aromatica,Huachamacari odorous frog,DD,VU,N,Amphibians,2019
+392,Myersiohyla inparquesi,Marahuaca Odorous Frog,DD,NT,N,Amphibians,2019
+393,Myersiohyla loveridgei,Loveridge's Treefrog,DD,NT,N,Amphibians,2019
+417,Nymphargus bejaranoi,Bolivian Cochran Frog,LC,EN,G,Amphibians,2019
+418,Nymphargus pluvialis,Pistipata Cochran Frog,DD,EN,N,Amphibians,2019
+453,Oreophrynella cryptica,Auyantepui Bush Toad,VU,NT,N,Amphibians,2019
+468,Phytotriades auratus,Golden Treefrog,CR,EN,N,Amphibians,2019
+479,Pleurodema marmoratum,Marbled Four-eyed Frog,LC,VU,G,Amphibians,2019
+481,Pristimantis anotis,Aragua Robber Frog,DD,CR(PE),N,Amphibians,2019
+485,Pristimantis fasciatus,Pejia's Striped Rain Frog,EN,VU,N,Amphibians,2019
+486,Pristimantis ginesi,Rangel Robber Frog,EN,VU,N,Amphibians,2019
+487,Pristimantis incertus,Secret Robber Frog,DD,LC,N,Amphibians,2019
+488,Pristimantis lancinii,Lancini's Robber Frog,EN,VU,N,Amphibians,2019
+494,Pristimantis pruinatus,Yavi Rainfrog,DD,VU,N,Amphibians,2019
+496,Pristimantis stenodiscus,Periquito Robber Frog,DD,CR,N,Amphibians,2019
+498,Pristimantis turumiquirensis,Ranita Nublada Del Turimiquire,EN,CR,N,Amphibians,2019
+500,Pristimantis vanadise,La Marca's Robber Frog,NT,EN,N,Amphibians,2019
+501,Pristimantis yaviensis,Ranita Del Yavi,DD,NT,N,Amphibians,2019
+502,Pristimantis yustizi,Yustiz's robber frog,DD,VU,N,Amphibians,2019
+552,Rhinella acrolopha,Cerro Mali Beaked Toad,DD,EN,N,Amphibians,2019
+554,Rhinella fissipes,Carabaya Toad,LC,DD,N,Amphibians,2019
+555,Rhinella rumbolli,Salta Toad,VU,NT,N,Amphibians,2019
+556,Rhinella sclerocephala,Falcon Crested Toad,EN,VU,N,Amphibians,2019
+557,Rhinella sternosignata,Falcon Toad,NT,LC,N,Amphibians,2019
+564,Sarcohyla chryses,Golden Treefrog,CR,EN,G,Amphibians,2019
+570,Sarcohyla psarosema,Speckled Treefrog,CR,CR(PE),N,Amphibians,2019
+580,Silverstoneia nubicola,Boquete Rocket Frog,NT,VU,G,Amphibians,2019
+582,Stefania breweri,Brewer's Carrying Frog,DD,VU,N,Amphibians,2019
+583,Stefania ginesi,Tepuis Treefrog,LC,NT,N,Amphibians,2019
+584,Stefania goini,Vegas Falls Treefrog,DD,NT,N,Amphibians,2019
+585,Stefania marahuaquensis,Marahuaca Treefrog,DD,NT,N,Amphibians,2019
+586,Stefania oculosa,Rana Stefania de Ojos Grandes,DD,VU,N,Amphibians,2019
+587,Stefania percristata,Rana Stefania de Jaua,DD,VU,N,Amphibians,2019
+588,Stefania riae,Sarisariñama Carrying Frog,DD,NT,N,Amphibians,2019
+589,Stefania schuberti,Auyantepui Stefania Tree Frog,VU,NT,N,Amphibians,2019
+590,Strabomantis biporcatus,Puerto Cabello Robber Frog,VU,LC,N,Amphibians,2019
+591,Strabomantis bufoniformis,Rusty Robber Frog,LC,EN,G,Amphibians,2019
+594,Telmatobius culeus,Titicaca Water Frog,CR,EN,N,Amphibians,2019
+598,Telmatobius marmoratus,Marbled Water Frog,VU,EN,N,Amphibians,2019
+599,Telmatobius sanborni,Sanborn's Water Frog,VU,CR,N,Amphibians,2019
+602,Telmatobius simonsi,Sucre Water Frog,NT,CR,G,Amphibians,2019
+605,Tepuihyla aecii,Monte Duida Treefrog,DD,NT,N,Amphibians,2019
+606,Tepuihyla exophthalma,Big-eye Slender-legged Treefrog,DD,LC,N,Amphibians,2019
+607,Tepuihyla luteolabris,Marahuaca Treefrog,DD,VU,N,Amphibians,2019
+624,Vitreorana castroviejoi,Ranita de Cristal de Castroviejo,DD,EN,N,Amphibians,2019
+625,Vitreorana gorzulae,Bolivar Giant Glass Frog,DD,LC,N,Amphibians,2019
+626,Vitreorana helenae,Venezuela Cochran Frog,DD,VU,N,Amphibians,2019
+636,Yunganastes fraudator,Cochabamba Robber Frog,LC,VU,G,Amphibians,2019
+637,Yunganastes mercedesae,Mercedes' Robber Frog,DD,LC,N,Amphibians,2019
+1,Aculeola nigra,Hooktooth Dogfish,DD,NT,N,Sharks_Rays,2019
+3,Apristurus canutus,Hoary Catshark,DD,LC,N,Sharks_Rays,2019
+11,Apristurus nasutus,Largenose Catshark,DD,LC,N,Sharks_Rays,2019
+12,Apristurus parvipinnis,Smallfin Catshark,DD,LC,N,Sharks_Rays,2019
+14,Apristurus riveri,Broadgill Catshark,DD,LC,N,Sharks_Rays,2019
+17,Atlantoraja castelnaui,Spotback Skate,EN,CR,N,Sharks_Rays,2019
+18,Atlantoraja cyclophora,Eyespot Skate,VU,EN,N,Sharks_Rays,2019
+19,Atlantoraja platana,La Plata Skate,VU,EN,N,Sharks_Rays,2019
+20,Bathyraja aguja,Aguja Skate,DD,LC,N,Sharks_Rays,2019
+21,Bathyraja brachyurops,Broadnose Skate,LC,NT,N,Sharks_Rays,2019
+26,Bathyraja longicauda,Slimtail Skate,DD,LC,N,Sharks_Rays,2019
+32,Bathyraja peruana,Peruvian Skate,DD,LC,N,Sharks_Rays,2019
+33,Bathyraja scaphiops,Cuphead Skate,NT,LC,N,Sharks_Rays,2019
+34,Bathyraja schroederi,Whitemouth Skate,DD,LC,N,Sharks_Rays,2019
+38,Bathytoshia centroura,Roughtail Stingray,LC,VU,N,Sharks_Rays,2019
+43,Breviraja mouldi,Mould's Skate,DD,LC,N,Sharks_Rays,2019
+44,Breviraja nigriventralis,Blackbelly Skate,DD,LC,N,Sharks_Rays,2019
+46,Bythaelurus canescens,Dusky Catshark,DD,VU,N,Sharks_Rays,2019
+48,Callorhinchus callorynchus,American Elephantfish,LC,VU,N,Sharks_Rays,2019
+49,Carcharhinus altimus,Bignose Shark,DD,NT,N,Sharks_Rays,2019
+50,Carcharhinus amblyrhynchos,Grey Reef Shark,NT,EN,N,Sharks_Rays,2019
+51,Carcharhinus brachyurus,Copper Shark,NT,VU,N,Sharks_Rays,2019
+52,Carcharhinus brevipinna,Spinner Shark,NT,VU,N,Sharks_Rays,2019
+55,Carcharhinus porosus,Smalltail Shark,DD,CR,N,Sharks_Rays,2019
+59,Centrophorus squamosus,Leafscale Gulper Shark,VU,EN,N,Sharks_Rays,2019
+60,Centrophorus uyato,Little Gulper Shark,DD,EN,N,Sharks_Rays,2019
+62,Centroscyllium nigrum,Combtooth Dogfish,DD,LC,N,Sharks_Rays,2019
+64,Centroselachus crepidater,Longnose Velvet Dogfish,LC,NT,N,Sharks_Rays,2019
+74,Chimaera cubana,Cuban Chimaera,DD,LC,N,Sharks_Rays,2019
+75,Chimaera monstrosa,Rabbitfish,NT,VU,N,Sharks_Rays,2019
+81,Cruriraja atlantis,Atlantic Pygmy Skate,DD,LC,N,Sharks_Rays,2019
+84,Cruriraja rugosa,Rough Pygmy Skate,DD,LC,N,Sharks_Rays,2019
+85,Dactylobatus armatus,Skillet Skate,DD,LC,N,Sharks_Rays,2019
+86,Dactylobatus clarkii,Hook Skate,DD,LC,N,Sharks_Rays,2019
+88,Dasyatis hypostigma,Groovebelly Stingray,DD,EN,N,Sharks_Rays,2019
+89,Deania calcea,Birdbeak Dogfish,LC,NT,N,Sharks_Rays,2019
+92,Diplobatis ommata,Pacific Dwarf Numbfish,VU,LC,N,Sharks_Rays,2019
+93,Dipturus bullisi,Tortugas Skate,DD,LC,N,Sharks_Rays,2019
+95,Dipturus garricki,San Blas Skate,DD,LC,N,Sharks_Rays,2019
+97,Dipturus leptocaudus,Thintail Skate,DD,VU,N,Sharks_Rays,2019
+98,Dipturus mennii,Menni's Skate,VU,CR,N,Sharks_Rays,2019
+101,Dipturus teevani,Caribbean Skate,DD,LC,N,Sharks_Rays,2019
+102,Discopyge tschudii,Apron Numbfish,NT,LC,N,Sharks_Rays,2019
+103,Echinorhinus brucus,Bramble Shark,DD,EN,N,Sharks_Rays,2019
+105,Etmopterus bullisi,Lined Lanternshark,DD,LC,N,Sharks_Rays,2019
+107,Etmopterus carteri,Cylindrical Lanternshark,DD,LC,N,Sharks_Rays,2019
+110,Etmopterus perryi,Dwarf Lanternshark,DD,LC,N,Sharks_Rays,2019
+118,Fenestraja mamillidens,Prickly Skate,DD,LC,N,Sharks_Rays,2019
+119,Fenestraja plutonia,Pluto Pygmy Skate,DD,LC,N,Sharks_Rays,2019
+120,Fenestraja sinusmexicanus,Gulf Pygmy Skate,DD,LC,N,Sharks_Rays,2019
+121,Fontitrygon colarensis,Colares Stingray,VU,CR,N,Sharks_Rays,2019
+122,Fontitrygon geijskesi,Wingfin Stingray,NT,CR,N,Sharks_Rays,2019
+123,Galeorhinus galeus,Tope,VU,CR,N,Sharks_Rays,2019
+125,Galeus cadenati,Longfin Sawtail Catshark,DD,LC,N,Sharks_Rays,2019
+129,Gurgesiella atlantica,Atlantic Finless Skate,DD,LC,N,Sharks_Rays,2019
+130,Gymnura crebripunctata,Mazatlan Butterfly Ray,DD,NT,N,Sharks_Rays,2019
+144,Heterodontus mexicanus,Mexican Hornshark,DD,LC,N,Sharks_Rays,2019
+145,Heterodontus quoyi,Galápagos Bullhead Shark,DD,LC,N,Sharks_Rays,2019
+151,Hydrolagus alberti,Gulf Chimaera,DD,LC,N,Sharks_Rays,2019
+152,Hydrolagus alphus,Whitespot Ghostshark,DD,LC,N,Sharks_Rays,2019
+153,Hydrolagus macrophthalmus,Bigeye Chimaera,DD,LC,N,Sharks_Rays,2019
+154,Hydrolagus matallanasi,Striped Rabbitfish,DD,VU,N,Sharks_Rays,2019
+155,Hydrolagus mccoskeri,Galapagos Ghostshark,DD,LC,N,Sharks_Rays,2019
+156,Hydrolagus mirabilis,Large-eyed Rabbitfish,NT,LC,N,Sharks_Rays,2019
+159,Hypanus americanus,Southern Stingray,DD,NT,N,Sharks_Rays,2019
+160,Hypanus dipterurus,Diamond Stingray,DD,VU,N,Sharks_Rays,2019
+161,Hypanus guttatus,Longnose Stingray,DD,NT,N,Sharks_Rays,2019
+162,Hypanus longus,Longtail Stingray,DD,VU,N,Sharks_Rays,2019
+163,Hypanus marianae,Large-eye Stingray,DD,EN,N,Sharks_Rays,2019
+164,Hypanus say,Bluntnose Stingray,LC,NT,N,Sharks_Rays,2019
+171,Malacoraja obscura,Brazilian Soft Skate,DD,LC,N,Sharks_Rays,2019
+173,Mobula birostris,Giant Manta Ray,VU,EN,N,Sharks_Rays,2019
+177,Mustelus albipinnis,White-margin Fin Smoothhound,DD,LC,N,Sharks_Rays,2019
+178,Mustelus dorsalis,Sharptooth Smoothhound,DD,VU,N,Sharks_Rays,2019
+180,Mustelus higmani,Smalleye Smoothhound,LC,EN,N,Sharks_Rays,2019
+182,Mustelus mento,Speckled Smoothhound,NT,CR,N,Sharks_Rays,2019
+183,Mustelus minicanis,Venezuelan Dwarf Smoothhound,DD,EN,N,Sharks_Rays,2019
+185,Mustelus schmitti,Narrownose Smoothhound,EN,CR,N,Sharks_Rays,2019
+186,Mustelus whitneyi,Humpback Smoothhound,VU,CR,N,Sharks_Rays,2019
+187,Myliobatis chilensis,Chilean Eagle Ray,DD,VU,N,Sharks_Rays,2019
+188,Myliobatis freminvillii,Bullnose Eagle Ray,DD,VU,N,Sharks_Rays,2019
+189,Myliobatis goodei,Southern Eagle Ray,DD,VU,N,Sharks_Rays,2019
+190,Myliobatis longirostris,Longnose Eagle Ray,NT,VU,N,Sharks_Rays,2019
+191,Myliobatis peruvianus,Peruvian Eagle Ray,DD,VU,N,Sharks_Rays,2019
+192,Narcine brasiliensis,Lesser Numbfish,DD,NT,N,Sharks_Rays,2019
+193,Narcine entemedor,Cortez Numbfish,DD,VU,N,Sharks_Rays,2019
+194,Narcine leoparda,Leopard Numbfish,NT,VU,N,Sharks_Rays,2019
+197,Nasolamia velox,Whitenose Shark,DD,EN,N,Sharks_Rays,2019
+198,Neoharriotta carri,Dwarf Sicklefin Chimaera,DD,NT,N,Sharks_Rays,2019
+202,Notorynchus cepedianus,Broadnose Sevengill Shark,DD,VU,N,Sharks_Rays,2019
+207,Oxynotus caribbaeus,Caribbean Roughshark,DD,LC,N,Sharks_Rays,2019
+220,Psammobatis lentiginosa,Freckle Sandskate,DD,LC,N,Sharks_Rays,2019
+223,Psammobatis rutrum,Spade Sandskate,DD,LC,N,Sharks_Rays,2019
+225,Pseudobatos glaucostigmus,Speckled Guitarfish,DD,VU,N,Sharks_Rays,2019
+226,Pseudobatos lentiginosus,Freckled Guitarfish,NT,VU,N,Sharks_Rays,2019
+227,Pseudobatos leucorhynchus,Whitesnout Guitarfish,NT,VU,N,Sharks_Rays,2019
+228,Pseudobatos percellens,Chola Guitarfish,NT,EN,N,Sharks_Rays,2019
+229,Pseudobatos planiceps,Pacific Guitarfish,DD,VU,N,Sharks_Rays,2019
+230,Pseudobatos prahli,Gorgona Guitarfish,DD,VU,N,Sharks_Rays,2019
+233,Rajella eisenhardti,Galápagos Skate,DD,LC,N,Sharks_Rays,2019
+235,Rhinoptera bonasus,American Cownose Ray,NT,VU,N,Sharks_Rays,2019
+236,Rhinoptera brasiliensis,Brazilian Cownose Ray,EN,VU,N,Sharks_Rays,2019
+239,Rhizoprionodon lalandii,Brazilian Sharpnose Shark,DD,VU,N,Sharks_Rays,2019
+240,Rhizoprionodon longurio,Pacific Sharpnose Shark,DD,VU,N,Sharks_Rays,2019
+243,Rostroraja equatorialis,Equatorial Skate,DD,VU,N,Sharks_Rays,2019
+245,Rostroraja velezi,Rasptail Skate,DD,VU,N,Sharks_Rays,2019
+246,Schroederichthys bivius,Narrowmouth Catshark,DD,LC,N,Sharks_Rays,2019
+247,Schroederichthys chilensis,Chilean Catshark,DD,LC,N,Sharks_Rays,2019
+248,Schroederichthys tenuis,Slender Catshark,DD,LC,N,Sharks_Rays,2019
+249,Schroederobatis americana,American Legskate,DD,LC,N,Sharks_Rays,2019
+250,Scyliorhinus hesperius,Whitesaddled Catshark,DD,LC,N,Sharks_Rays,2019
+257,Sphyrna corona,Scalloped Bonnethead,NT,CR,N,Sharks_Rays,2019
+258,Sphyrna media,Scoophead Shark,DD,CR,N,Sharks_Rays,2019
+259,Sphyrna tiburo,Bonnethead Shark,LC,EN,N,Sharks_Rays,2019
+260,Sphyrna tudes,Smalleye Hammerhead,VU,CR,N,Sharks_Rays,2019
+263,Squalus cubensis,Cuban Dogfish,DD,LC,N,Sharks_Rays,2019
+268,Squatina armata,Chilean Angelshark,DD,CR,N,Sharks_Rays,2019
+271,Sympterygia acuta,Bignose Fanskate,VU,CR,N,Sharks_Rays,2019
+272,Sympterygia bonapartii,Smallnose Fanskate,DD,NT,N,Sharks_Rays,2019
+273,Sympterygia brevicaudata,Shorttail Fanskate,DD,NT,N,Sharks_Rays,2019
+276,Tetronarce puelcha,Argentine Torpedo,DD,CR,N,Sharks_Rays,2019
+277,Tetronarce tremens,Chilean Torpedo,DD,LC,N,Sharks_Rays,2019
+280,Triakis maculata,Spotted Houndshark,VU,CR,N,Sharks_Rays,2019
+285,Urobatis tumbesensis,Tumbes Round Ray,DD,VU,N,Sharks_Rays,2019
+287,Urotrygon aspidura,Spinytail Round Ray,DD,NT,N,Sharks_Rays,2019
+288,Urotrygon chilensis,Chilean Round Ray,DD,NT,N,Sharks_Rays,2019
+289,Urotrygon microphthalmum,Smalleye Round Ray,LC,CR,N,Sharks_Rays,2019
+290,Urotrygon munda,Munda Round Ray,DD,NT,N,Sharks_Rays,2019
+293,Urotrygon rogersi,Rogers' Round Ray,DD,NT,N,Sharks_Rays,2019
+294,Urotrygon venezuelae,Venezuelan Round Ray,NT,EN,N,Sharks_Rays,2019
+295,Zameus squamulosus,Velvet Dogfish,DD,LC,N,Sharks_Rays,2019
+296,Zapteryx brevirostris,Shortnose Guitarfish,VU,EN,N,Sharks_Rays,2019
+297,Zapteryx xyster,Southern Banded Guitarfish,DD,VU,N,Sharks_Rays,2019
+27,Brycinus brevis,Characin,VU,EN,N,Bony_Fishes,2019
+57,Citharinus eburneensis,Moonfish,NT,LC,N,Bony_Fishes,2019
+70,Cynodonichthys kuelpmanni,Olomina,DD,CR,N,Bony_Fishes,2019
+71,Cynodonichthys wassmanni,Olomina,LC,EN,N,Bony_Fishes,2019
+74,Engraulis anchoita,Argentine Anchovy,NT,LC,N,Bony_Fishes,2019
